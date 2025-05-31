@@ -11,7 +11,7 @@ Hi there! This is where I publish my original stories and novels.
 
 📖 Explore my works:
 
-- [Novels](/novels/)
-- [Novellas](/novellas/)
+- [Novels](novels/)
+- [Novellas](novellas/)
 
 ---
