@@ -1,0 +1,27 @@
+baseURL = 'https://example.org/'
+languageCode = 'en-us'
+title = 'My Collection'
+theme = "PaperMod"
+
+[params]
+  ShowReadingTime = true
+  ShowPostNavLinks = true
+  ShowBreadcrumbs = true
+  ShowToc = true
+  mainSections = []
+
+[menu]
+  [[menu.main]]
+    name = "Novels"
+    url = "/novels/"
+    weight = 1
+
+  [[menu.main]]
+    name = "Novellas"
+    url = "/novellas/"
+    weight = 2
+
+  [[menu.main]]
+    name = "About Me"
+    url = "/about-me/"
+    weight = 10

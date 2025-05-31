@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>A Candid Obituary on My Collection</title>
+    <link>http://localhost:1313/novels/a-candid-obituary/</link>
+    <description>Recent content in A Candid Obituary on My Collection</description>
+    <generator>Hugo -- 0.147.6</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 30 May 2025 20:10:05 +0800</lastBuildDate>
+    <atom:link href="http://localhost:1313/novels/a-candid-obituary/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Chapter 1</title>
+      <link>http://localhost:1313/novels/a-candid-obituary/chapter-1/</link>
+      <pubDate>Fri, 30 May 2025 20:10:05 +0800</pubDate>
+      <guid>http://localhost:1313/novels/a-candid-obituary/chapter-1/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>

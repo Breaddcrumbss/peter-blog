@@ -1,0 +1,48 @@
+<!-- {{- $pages := where site.RegularPages "Type" "in" site.Params.mainSections }}
+{{- if and (gt (len $pages) 1) (in $pages . ) }}
+<nav class="paginav">
+  {{- with $pages.Next . }}
+  <a class="prev" href="{{ .Permalink }}">
+    <span class="title">« {{ i18n "prev_page" }}</span>
+    <br>
+    <span>{{- .Name -}}</span>
+  </a>
+  {{- end }}
+  {{- with $pages.Prev . }}
+  <a class="next" href="{{ .Permalink }}">
+    <span class="title">{{ i18n "next_page" }} »</span>
+    <br>
+    <span>{{- .Name -}}</span>
+  </a>
+  {{- end }}
+</nav>
+{{- end }} -->
+
+{{- $pages := sort .Parent.Pages "Weight" }}
+{{- $current := . }}
+{{- $index := -1 }}
+{{- range $i, $p := $pages }}
+  {{- if eq $p.RelPermalink $current.RelPermalink }}
+    {{- $index = $i }}
+  {{- end }}
+{{- end }}
+
+{{- if ge $index 0 }}
+<nav class="paginav">
+  {{- if ge (add $index -1) 0 }}
+  <a class="prev" href="{{ (index $pages (add $index -1)).Permalink }}">
+    <span class="title">« {{ i18n "prev_page" }}</span>
+    <br>
+    <span>{{- (index $pages (add $index -1)).Title -}}</span>
+  </a>
+  {{- end }}
+
+  {{- if lt (add $index 1) (len $pages) }}
+  <a class="next" href="{{ (index $pages (add $index 1)).Permalink }}">
+    <span class="title">{{ i18n "next_page" }} »</span>
+    <br>
+    <span>{{- (index $pages (add $index 1)).Title -}}</span>
+  </a>
+  {{- end }}
+</nav>
+{{- end }}
