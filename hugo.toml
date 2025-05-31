@@ -8,7 +8,6 @@ theme = 'PaperMod'
   ShowPostNavLinks = true
   ShowBreadcrumbs = true
   ShowToc = true
-  mainSections = []
 
 [menu]
   [[menu.main]]
