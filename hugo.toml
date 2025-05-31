@@ -25,3 +25,7 @@ theme = "PaperMod"
     name = "About Me"
     url = "/about-me/"
     weight = 10
+
+[caches]
+  [caches.images]
+    dir = ':cacheDir/images'
