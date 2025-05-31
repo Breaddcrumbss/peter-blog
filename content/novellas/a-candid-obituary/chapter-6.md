@@ -1,6 +1,6 @@
 +++
 date = '2025-05-31T12:52:46+08:00'
-draft = true
+draft = false
 title = "Chapter 6: Ranjan's Perspective"
 weight = 6
 +++

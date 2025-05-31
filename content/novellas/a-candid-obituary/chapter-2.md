@@ -1,6 +1,6 @@
 +++
 date = '2025-05-31T12:49:15+08:00'
-draft = true
+draft = false
 title = 'Chapter 2: A Gifted Youth'
 weight = 2
 +++

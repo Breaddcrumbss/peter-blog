@@ -1,6 +1,6 @@
 +++
 date = '2025-05-31T12:59:39+08:00'
-draft = true
+draft = false
 title = "Chapter 10: Alfie's Verdict"
 weight = 10
 +++

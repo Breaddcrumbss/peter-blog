@@ -1,6 +1,6 @@
 +++
 date = '2025-05-31T12:56:31+08:00'
-draft = true
+draft = false
 title = 'Chapter 8: A Spiteful Reaction'
 weight = 8
 +++
