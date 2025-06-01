@@ -5,3 +5,20 @@ body {
 .post-content {
   text-align: justify;
 }
+
+.sidenote {
+  float: right;
+  width: 30%;
+  margin-left: 1em;
+  font-size: 0.9em;
+  color: #555;
+  position: relative;
+}
+@media screen and (max-width: 768px) {
+  .sidenote {
+    float: none;
+    display: block;
+    width: 100%;
+    margin-top: 1em;
+  }
+}

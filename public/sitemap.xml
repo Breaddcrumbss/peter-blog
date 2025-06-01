@@ -2,11 +2,17 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>http://localhost:1313/peter-blog/novels/bright-lion/preface/</loc>
+    <lastmod>2025-06-01T14:40:09+08:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/peter-blog/novellas/a-candid-obituary/chapter-1/</loc>
     <lastmod>2025-05-30T20:10:05+08:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/peter-blog/novellas/the-hidden-rooms/chapter-1/</loc>
     <lastmod>2025-05-30T19:57:20+08:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/peter-blog/novels/bright-lion/part-1/</loc>
+    <lastmod>2025-06-01T14:41:47+08:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/peter-blog/novellas/a-candid-obituary/chapter-2/</loc>
     <lastmod>2025-05-31T12:49:15+08:00</lastmod>
@@ -14,11 +20,17 @@
     <loc>http://localhost:1313/peter-blog/novellas/the-hidden-rooms/chapter-2/</loc>
     <lastmod>2025-05-30T19:59:06+08:00</lastmod>
   </url><url>
+    <loc>http://localhost:1313/peter-blog/novels/bright-lion/part-2/</loc>
+    <lastmod>2025-06-01T14:43:13+08:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/peter-blog/novellas/a-candid-obituary/chapter-3/</loc>
     <lastmod>2025-05-31T12:50:55+08:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/peter-blog/novellas/the-hidden-rooms/chapter-3/</loc>
     <lastmod>2025-05-31T11:04:53+08:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/peter-blog/novels/bright-lion/part-3/</loc>
+    <lastmod>2025-06-01T14:46:29+08:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/peter-blog/novellas/a-candid-obituary/chapter-4/</loc>
     <lastmod>2025-05-31T12:51:33+08:00</lastmod>
@@ -26,11 +38,20 @@
     <loc>http://localhost:1313/peter-blog/novellas/the-hidden-rooms/chapter-4/</loc>
     <lastmod>2025-05-31T11:07:14+08:00</lastmod>
   </url><url>
+    <loc>http://localhost:1313/peter-blog/novels/bright-lion/part-4/</loc>
+    <lastmod>2025-06-01T14:52:12+08:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/peter-blog/novellas/a-candid-obituary/chapter-5/</loc>
     <lastmod>2025-05-31T12:52:09+08:00</lastmod>
   </url><url>
+    <loc>http://localhost:1313/peter-blog/novels/bright-lion/part-5/</loc>
+    <lastmod>2025-06-01T14:54:26+08:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/peter-blog/novellas/a-candid-obituary/chapter-6/</loc>
     <lastmod>2025-05-31T12:52:46+08:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/peter-blog/novels/bright-lion/part-6/</loc>
+    <lastmod>2025-06-01T14:55:53+08:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/peter-blog/novellas/a-candid-obituary/chapter-7/</loc>
     <lastmod>2025-05-31T12:55:17+08:00</lastmod>
@@ -52,6 +73,9 @@
   </url><url>
     <loc>http://localhost:1313/peter-blog/novellas/a-candid-obituary/epilogue/</loc>
     <lastmod>2025-05-31T13:03:25+08:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/peter-blog/novels/bright-lion/</loc>
+    <lastmod>2025-06-01T14:34:54+08:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/peter-blog/novellas/a-candid-obituary/</loc>
     <lastmod>2025-05-30T20:08:29+08:00</lastmod>
