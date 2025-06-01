@@ -1,6 +1,6 @@
 baseURL = 'https://breaddcrumbss.github.io/peter-blog/'
 languageCode = 'en-us'
-title = 'My Collection'
+title = 'Peter Ellinger'
 theme = 'PaperMod'
 
 [params]
