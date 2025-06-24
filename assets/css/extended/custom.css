@@ -1,9 +1,13 @@
 body {
-  font-family: "Georgia", Times, serif;
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
 }
 
 .post-content {
   text-align: justify;
+}
+
+.content, .container, .main {
+  max-width: 900px;
 }
 
 .sidenote {
