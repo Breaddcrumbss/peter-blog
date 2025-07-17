@@ -1,4 +1,4 @@
-baseURL = 'https://breaddcrumbss.github.io/peter-blog/'
+baseURL = 'https://peter-ellinger-blog.com'
 languageCode = 'en-us'
 title = 'Peter Ellinger'
 theme = 'PaperMod'
