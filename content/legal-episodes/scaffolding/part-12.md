@@ -36,3 +36,5 @@ Boarding started shortly after Ruth had left. Mother smiled at me sadly. She was
 “See you in Vienna when you take your next leave, my son.”
 
 “It won’t be long, Mamma. I promise.”
+
+****

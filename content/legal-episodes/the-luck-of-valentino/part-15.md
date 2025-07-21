@@ -2,6 +2,7 @@
 date = '2025-07-21T18:29:03+08:00'
 draft = false
 title = 'Part 15: Planning Our Future'
+weight = 15
 +++
 
 

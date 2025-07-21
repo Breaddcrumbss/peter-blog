@@ -2,7 +2,7 @@
 date = '2025-07-21T21:26:27+08:00'
 draft = false
 title = 'Reason on a Scaffolding'
-summary = ' '
+summary = 'Tel Aviv, 1963'
 weight = 4
 +++
 
