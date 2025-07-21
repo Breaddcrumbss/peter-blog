@@ -13,10 +13,11 @@ My self-published works were, of course, arranged chronologically. The blog is a
 
 The blog does not cover books and articles dealing with legal problems. A list thereof is set out  in the first part.
 
-Quick Links:
+**Quick Links**:
 
 - [About Me](about-me/)
 - [Novels](novels/)
 - [Novellas](novellas/)
+- [Legal Episodes](legal-episodes/)
 
 ---
