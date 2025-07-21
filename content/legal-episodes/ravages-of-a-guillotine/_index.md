@@ -6,4 +6,4 @@ weight = 2
 summary = ' '
 +++
 
-Also available [here](https://peterellingerlegalepisodes.blogspot.com/2025/07/ravages-of-guillotine.html)
+*Also available [here](https://peterellingerlegalepisodes.blogspot.com/2025/07/ravages-of-guillotine.html)*

@@ -11,7 +11,7 @@ This blog comprises literary works composed by me over the year, starting at aro
 
 My self-published works were, of course, arranged chronologically. The blog is arranged differently: it is  divided into six parts. The first sets out my personal details. The remaining five arrange my publications in a topical sequence: Novels, Novellas, Legal Episode, Short Stories and Essays.
 
-The blog does not cover books and articles dealing with legal problems. A list thereof is set out  in the first part.
+The blog does not cover books and articles dealing with legal problems. A list thereof is set out in the [first part](about-me/).
 
 **Quick Links**:
 

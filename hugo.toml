@@ -12,6 +12,17 @@ theme = 'PaperMod'
   enableRobotsTXT = true
   TocSide = 'left'
   TocOpen = true
+  env = "production"  # for search
+
+  [params.fuseOpts]  # for search
+  isCaseSensitive = false
+  shouldSort = true
+  includeMatches = false
+  threshold = 0.3
+  keys = ["title", "summary", "content"]
+
+[outputs]
+  home = ["HTML", "RSS", "JSON"] 
 
 [menu]
   [[menu.main]]
@@ -33,6 +44,12 @@ theme = 'PaperMod'
     name = "About Me"
     url = "/about-me/"
     weight = 10
+
+  [[menu.main]]
+    identifier = "search"
+    name = "🔍"
+    url = "search/"
+    weight = 11
 
 [caches]
   [caches.images]

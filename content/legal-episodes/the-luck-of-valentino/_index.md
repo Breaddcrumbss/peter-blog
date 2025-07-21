@@ -6,4 +6,4 @@ weight = 1
 summary = ' '
 +++
 
-Also available [here](https://peterellingerlegalepisodes.blogspot.com/2025/07/the-luck-of-valentino.html)
+*Also available [here](https://peterellingerlegalepisodes.blogspot.com/2025/07/the-luck-of-valentino.html)*
