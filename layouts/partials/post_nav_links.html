@@ -29,7 +29,7 @@
 
 {{- if ge $index 0 }}
 <nav class="paginav">
-  {{- if ge (add $index -1) 0 }}
+  {{- if and (ge (add $index -1) 0) (not .Params.chapterStart)}}
   <a class="prev" href="{{ (index $pages (add $index -1)).Permalink }}">
     <span class="title">« {{ i18n "prev_page" }}</span>
     <br>

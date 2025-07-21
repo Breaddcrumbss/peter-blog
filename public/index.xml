@@ -2,25 +2,41 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Welcome to my collection of stories on Peter Ellinger</title>
-    <link>https://breaddcrumbss.github.io/peter-blog/</link>
+    <link>http://localhost:1313/</link>
     <description>Recent content in Welcome to my collection of stories on Peter Ellinger</description>
     <generator>Hugo -- 0.147.6</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 24 Jun 2025 22:41:20 +0800</lastBuildDate>
-    <atom:link href="https://breaddcrumbss.github.io/peter-blog/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 21 Jul 2025 19:04:40 +0800</lastBuildDate>
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Part 1: Dahlia Nissim&#39;s Tragedy</title>
+      <link>http://localhost:1313/legal-episodes/ravages-of-a-guillotine/part-1/</link>
+      <pubDate>Mon, 21 Jul 2025 18:47:35 +0800</pubDate>
+      <guid>http://localhost:1313/legal-episodes/ravages-of-a-guillotine/part-1/</guid>
+      <description>&lt;p&gt;That morning I arrived at work just before Rachel. She caught up with me at the foot of the staircase.  Grinning, she conceded: “So you won the race, my pet. You must have got up right after you crawled into your bed.”&lt;/p&gt;
+&lt;p&gt;“I don’t need much sleep. And you waited by your ‘phone for my call. I really don’t know why you fret like this.”&lt;/p&gt;
+&lt;p&gt;“You left my flat at 2.00 a.m. and were too proud to call a taxi!  You had to take the half hour walk home!”&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Part 1: A Sad Incident</title>
+      <link>http://localhost:1313/legal-episodes/the-luck-of-valentino/part-1/</link>
+      <pubDate>Mon, 21 Jul 2025 18:09:01 +0800</pubDate>
+      <guid>http://localhost:1313/legal-episodes/the-luck-of-valentino/part-1/</guid>
+      <description>&lt;p&gt;The correspondence respecting the case of Omri Tal  versus Solomon Vered and Movil &amp;amp; Co. Ltd was dumped unceremoniously on my desk late in the morning, on  a  heavily  clouded day in early spring,  by Jacob Keren, sole proprietor of J. Keren &amp;amp; Associates, Advocates, of Rothschild Boulevard,  Tel Aviv.  A short choleric man in his late fifties, with thick glasses,  receding hair and a loud metallic voice, he was – as was his wont – in a foul mood.&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Chapter 1: Reminiscences at the Station in Munich</title>
-      <link>https://breaddcrumbss.github.io/peter-blog/novellas/the-devil-in-munich/chapter-1/</link>
+      <link>http://localhost:1313/novellas/the-devil-in-munich/chapter-1/</link>
       <pubDate>Tue, 24 Jun 2025 21:18:14 +0800</pubDate>
-      <guid>https://breaddcrumbss.github.io/peter-blog/novellas/the-devil-in-munich/chapter-1/</guid>
+      <guid>http://localhost:1313/novellas/the-devil-in-munich/chapter-1/</guid>
       <description>&lt;h3 id=&#34;1-the-platform-phenomenon&#34;&gt;1. The Platform Phenomenon&lt;/h3&gt;
 &lt;p&gt;An event that took place in an underground-train station in Munich’s inner city had far reaching effects on the life  of three persons: Peppi Stölzl –  who rose thereafter in the world, became Sir Joseph-Dieter, Freiherr von Stölzenfeld – my late father, Robert Berger, known to friends as  ‘Tommy’,   and myself,  Peter Berger,  a mendicant professor who eventually settled in Singapore but travelled from time to time to London where eventually I met  Peppi,&lt;/p&gt;</description>
     </item>
     <item>
       <title>Legal Publications</title>
-      <link>https://breaddcrumbss.github.io/peter-blog/about-me/legal-pubs/</link>
+      <link>http://localhost:1313/about-me/legal-pubs/</link>
       <pubDate>Mon, 23 Jun 2025 19:57:54 +0800</pubDate>
-      <guid>https://breaddcrumbss.github.io/peter-blog/about-me/legal-pubs/</guid>
+      <guid>http://localhost:1313/about-me/legal-pubs/</guid>
       <description>&lt;h2 id=&#34;list-of-peter-ellingers-publications-on-legal-topics&#34;&gt;List of Peter Ellinger’s Publications on Legal Topics&lt;/h2&gt;
 &lt;h3 id=&#34;books-and-book-length-chapters-in-co-authored-books&#34;&gt;&lt;ins&gt;Books and Book-Length Chapters in Co-Authored Books&lt;/ins&gt;&lt;/h3&gt;
 &lt;ol&gt;
@@ -32,40 +48,54 @@
     </item>
     <item>
       <title>Chapter 1: Arrival and Vigil</title>
-      <link>https://breaddcrumbss.github.io/peter-blog/novellas/reunion-in-zermatt/chapter-1/</link>
+      <link>http://localhost:1313/novellas/reunion-in-zermatt/chapter-1/</link>
       <pubDate>Fri, 20 Jun 2025 12:12:03 +0800</pubDate>
-      <guid>https://breaddcrumbss.github.io/peter-blog/novellas/reunion-in-zermatt/chapter-1/</guid>
+      <guid>http://localhost:1313/novellas/reunion-in-zermatt/chapter-1/</guid>
       <description>&lt;h3 id=&#34;1-pension-kegel&#34;&gt;1. Pension Kegel&lt;/h3&gt;
 &lt;p&gt;The  electric car of Pension Kegel was waiting for me outside  the railway  station.  Fastening my scarf to keep out the crisp air of  a  typical dawn in Zermatt, I walked briskly up the platform and got in. As often before, I breathed the clean air  in deeply and with satisfaction. The absence of fuel driven motorcars was a blessing.&lt;/p&gt;
 &lt;p&gt;The electric car driver,  who was  also  the  sole concierge of the  modest  establishment,  manoeuvred  his ramshackle vehicle adroitly through the narrow and winding lanes  of  my favourite Swiss  resort. I observed with a grim smile  that  for him, too, time had not stood still: his wrinkles had deepened and his hair had turned  silver grey. Bestowing on me the smile reserved for old customers,  he carried my suitcase up the stairs  to the reception counter.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Preface</title>
-      <link>https://breaddcrumbss.github.io/peter-blog/novels/bright-lion/preface/</link>
+      <link>http://localhost:1313/novels/bright-lion/preface/</link>
       <pubDate>Sun, 01 Jun 2025 14:40:09 +0800</pubDate>
-      <guid>https://breaddcrumbss.github.io/peter-blog/novels/bright-lion/preface/</guid>
+      <guid>http://localhost:1313/novels/bright-lion/preface/</guid>
       <description>&lt;p&gt;The object of Bright Lion is to compare two approaches to Judaism. Whilst both are imbued with tolerance and understanding they are nevertheless distinct. One approach is that of the tolerant traditional observer who follows the commands of his faith but is not perturbed by the transgressions and by the non-conformity of fellow Jews. The other approach is that of a sceptic who doubts many of the tenets of the faith as well as the Bible’s historicity and does not observe commands he fails to understand. His adherence to Judaism is based on his acceptance of the ethnic affiliation of members of the community. He is tolerant of the view of orthodox believers, provided they do not attempt to force him to adopt their orientation.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Chapter 1: A Dilemma</title>
-      <link>https://breaddcrumbss.github.io/peter-blog/novellas/a-candid-obituary/chapter-1/</link>
+      <link>http://localhost:1313/novellas/a-candid-obituary/chapter-1/</link>
       <pubDate>Fri, 30 May 2025 20:10:05 +0800</pubDate>
-      <guid>https://breaddcrumbss.github.io/peter-blog/novellas/a-candid-obituary/chapter-1/</guid>
+      <guid>http://localhost:1313/novellas/a-candid-obituary/chapter-1/</guid>
       <description>&lt;p&gt;My secretary had arranged the incoming mail in a neat pile. As I leafed through it, my glance fell on an envelope posted in Colombo. Was it a request for a reference from one of my recent Sri Lankan students? I was about to slice the cover open when Shamsiah’s call reminded me that my Banking Law class was to commence in five minutes. Reluctantly, I dropped the letter back on my desk, picked up my notes and hurried to my seminar room.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Chapter 1: Above the Clouds</title>
-      <link>https://breaddcrumbss.github.io/peter-blog/novellas/the-hidden-rooms/chapter-1/</link>
+      <link>http://localhost:1313/novellas/the-hidden-rooms/chapter-1/</link>
       <pubDate>Fri, 30 May 2025 19:57:20 +0800</pubDate>
-      <guid>https://breaddcrumbss.github.io/peter-blog/novellas/the-hidden-rooms/chapter-1/</guid>
+      <guid>http://localhost:1313/novellas/the-hidden-rooms/chapter-1/</guid>
       <description>&lt;h3 id=&#34;1-an-extraordinary-catalogue&#34;&gt;1. An Extraordinary Catalogue&lt;/h3&gt;
 &lt;p&gt;As  the  aeroplane steadied on its westward course, I  started  to  skim through  the papers respecting the  legal  entanglement  that required my presence in London. Conscience and professional integrity dictated that   I peruse the bundle meticulously. I owed this to the friendly  law firm  that was paying handsomely for my services and for the comfortable  seat in  the  business  class  section  of  British  Airways’  direct  flight  from Singapore.&lt;/p&gt;</description>
     </item>
     <item>
+      <title>Part 2: Meeting Dahlia - The Client</title>
+      <link>http://localhost:1313/legal-episodes/ravages-of-a-guillotine/part-2/</link>
+      <pubDate>Mon, 21 Jul 2025 18:57:22 +0800</pubDate>
+      <guid>http://localhost:1313/legal-episodes/ravages-of-a-guillotine/part-2/</guid>
+      <description>&lt;p&gt;Dahlia Nissim and her mother, Rivka, were seated in front of the spacious desk, which made Jacob Keren look bigger than life. Both gazed at us with curiosity mingled with apprehension. Our first task was to make them feel at ease. To win a case, you must enjoy your client’s trust and confidence. As soon as Jacob Keren concluded the introductions, in which he alluded to us as his star team, Rachel set out to break the ice.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Part 2: Teaming with Hannah</title>
+      <link>http://localhost:1313/legal-episodes/the-luck-of-valentino/part-2/</link>
+      <pubDate>Mon, 21 Jul 2025 18:12:29 +0800</pubDate>
+      <guid>http://localhost:1313/legal-episodes/the-luck-of-valentino/part-2/</guid>
+      <description>&lt;p&gt;My choice of Hannah was partly explainable by the friendship I felt for her.  Although Hannah’s solid Hamburgese background differed in more than one way from my relaxed and light-hearted Viennese milieu, both of us were Yekkes. In a firm dominated by Russian Jews and Sabres this cultural affinity drew us together.  Every so often, when we felt alienated by the rough  mannerism  and Chutzpah  of  our colleagues, we reverted to German, earning hostile glances from those present.  In addition, Hannah and I shared a taste for books and for good films. Frequently, we lent German novels to one another and,  occasionally, went together to the cinema. Another, even stranger, bond  was that  both  of us suffered from Asthma. When either of  us  came down with an attack, the other lent a supportive shoulder.&lt;/p&gt;</description>
+    </item>
+    <item>
       <title>Chapter 2: Mayhem and the Brotherhood of Man</title>
-      <link>https://breaddcrumbss.github.io/peter-blog/novellas/the-devil-in-munich/chapter-2/</link>
+      <link>http://localhost:1313/novellas/the-devil-in-munich/chapter-2/</link>
       <pubDate>Tue, 24 Jun 2025 21:23:14 +0800</pubDate>
-      <guid>https://breaddcrumbss.github.io/peter-blog/novellas/the-devil-in-munich/chapter-2/</guid>
+      <guid>http://localhost:1313/novellas/the-devil-in-munich/chapter-2/</guid>
       <description>&lt;h3 id=&#34;1-the-locum-and-his-provocation&#34;&gt;1. The Locum and his Provocation&lt;/h3&gt;
 &lt;p&gt;After his reunion with Peppi, Dad had to travel to Italy. On his return to the old Bavarian capital, Dad took the train to Peppi’s station. Upon disembarking, he saw a strange figure mounting the podium.&lt;/p&gt;
 &lt;p&gt;“Where is Peppi Stölzl?” he asked the new incumbent.&lt;/p&gt;
@@ -74,9 +104,9 @@
     </item>
     <item>
       <title>Self-Published Books</title>
-      <link>https://breaddcrumbss.github.io/peter-blog/about-me/self-pubs/</link>
+      <link>http://localhost:1313/about-me/self-pubs/</link>
       <pubDate>Tue, 24 Jun 2025 13:00:37 +0800</pubDate>
-      <guid>https://breaddcrumbss.github.io/peter-blog/about-me/self-pubs/</guid>
+      <guid>http://localhost:1313/about-me/self-pubs/</guid>
       <description>&lt;p&gt;&lt;strong&gt;&lt;ins&gt;Peter Ellinger Self-Published Books&lt;/ins&gt;&lt;/strong&gt;&lt;/p&gt;
 &lt;ol&gt;
 &lt;li&gt;
@@ -114,111 +144,141 @@
     </item>
     <item>
       <title>Chapter 2: Planning a Historical Trial</title>
-      <link>https://breaddcrumbss.github.io/peter-blog/novellas/reunion-in-zermatt/chapter-2/</link>
+      <link>http://localhost:1313/novellas/reunion-in-zermatt/chapter-2/</link>
       <pubDate>Fri, 20 Jun 2025 12:14:44 +0800</pubDate>
-      <guid>https://breaddcrumbss.github.io/peter-blog/novellas/reunion-in-zermatt/chapter-2/</guid>
+      <guid>http://localhost:1313/novellas/reunion-in-zermatt/chapter-2/</guid>
       <description>&lt;h3 id=&#34;1-josephus-and-the-great-jewish-revolt&#34;&gt;1. Josephus and the Great Jewish Revolt&lt;/h3&gt;
 &lt;p&gt;I  doubt if Pilkin and I would have become mates   had  it not been for the Josephus Flavius trial staged by TA.1 in 1950. Although the War of Independence was by then long over,  Israel had not fully recovered from its economic and social effects. Commodities were scarce, prices were high  and the black market was booming. One of the objectives of Israeli schools of that period  was to turn its pupils into good citizens. Nobody was held in  greater contempt than a traitor to the struggle for the survival of the two years old nation.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Part 1: Getting Started</title>
-      <link>https://breaddcrumbss.github.io/peter-blog/novels/bright-lion/part-1/</link>
+      <link>http://localhost:1313/novels/bright-lion/part-1/</link>
       <pubDate>Sun, 01 Jun 2025 14:41:47 +0800</pubDate>
-      <guid>https://breaddcrumbss.github.io/peter-blog/novels/bright-lion/part-1/</guid>
+      <guid>http://localhost:1313/novels/bright-lion/part-1/</guid>
       <description>&lt;h3 id=&#34;1-visit-to-yentls-grave&#34;&gt;1. Visit to Yentl’s Grave&lt;/h3&gt;
 &lt;p&gt;Earlier today I resolved to write my autobiography. I was mulling the idea over since the day Yentl came up with it. She had just finished reading the memoirs of an American politician. She thought his style was good and had appreciated his anecdotes. But, she asked, why did he presume others had an interest in his mundane manoeuvrings and dull existence on the fringes of Washington D.C.?&lt;/p&gt;</description>
     </item>
     <item>
       <title>Chapter 2: A Gifted Youth</title>
-      <link>https://breaddcrumbss.github.io/peter-blog/novellas/a-candid-obituary/chapter-2/</link>
+      <link>http://localhost:1313/novellas/a-candid-obituary/chapter-2/</link>
       <pubDate>Sat, 31 May 2025 12:49:15 +0800</pubDate>
-      <guid>https://breaddcrumbss.github.io/peter-blog/novellas/a-candid-obituary/chapter-2/</guid>
+      <guid>http://localhost:1313/novellas/a-candid-obituary/chapter-2/</guid>
       <description>&lt;p&gt;My knowledge of Ranjan’s youth is based on what he thought fit to tell me and on occasional remarks of  his contemporaries. A model primary school pupil, a boy scouts leader and a fine cricket player were on the credit side. A tricky fellow, one ready to snitch when it suited him, and a  mercenary to boot, were remarks made by those who disliked him. One of them told me that Ranjan would display enthusiasm when he was the key figure in some sporting event, but often lost interest when it was the turn of others.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Chapter 2: Past Perfect</title>
-      <link>https://breaddcrumbss.github.io/peter-blog/novellas/the-hidden-rooms/chapter-2/</link>
+      <link>http://localhost:1313/novellas/the-hidden-rooms/chapter-2/</link>
       <pubDate>Fri, 30 May 2025 19:59:06 +0800</pubDate>
-      <guid>https://breaddcrumbss.github.io/peter-blog/novellas/the-hidden-rooms/chapter-2/</guid>
+      <guid>http://localhost:1313/novellas/the-hidden-rooms/chapter-2/</guid>
       <description>&lt;h3 id=&#34;3-a-confused-day&#34;&gt;3. A Confused Day&lt;/h3&gt;
 &lt;p&gt;Bill  Riggs  was  waiting for me at the arrival hall of  Terminal  3  at Heathrow Airport. He  was,  actually, looking fresher and more vigorous than he  had  ever appeared  in Singapore. For  a  short while we  gossiped  about  mutual  friends  in Singapore,  about  my forthcoming book and about his own work  in  his  London firm.  Then, as if by  prior arrangement, we turned to business. I started by expressing my doubts respecting the outcome.&lt;/p&gt;</description>
     </item>
     <item>
+      <title>Part 3: Rachel and I Analyse the Case</title>
+      <link>http://localhost:1313/legal-episodes/ravages-of-a-guillotine/part-3/</link>
+      <pubDate>Mon, 21 Jul 2025 18:57:25 +0800</pubDate>
+      <guid>http://localhost:1313/legal-episodes/ravages-of-a-guillotine/part-3/</guid>
+      <description>&lt;p&gt;Rachel’s and returned to her office. As we went again through the facts, we concluded the accident had been triggered off by a fault in the machine. Still, in an action against the manufacturers it would hard to establish the fault. We preferred a suit against Wollor – the local firm – provided Rotem admitted liability. The question was how to persuade it.&lt;/p&gt;
+&lt;p&gt;In the ultimate, it was an open-ended issue. Wolf’s record with the insurers would, undoubtedly, be a relevant fact. So would the orientation of Rotem’s personnel in charge. In this regard, both Rachel and I had some hope. Any decision of the Board of Directors would depend on a recommendation of the in-house lawyers. We knew both well and so embarked on an assessment of their likely reaction.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Part 3: Setting Traps</title>
+      <link>http://localhost:1313/legal-episodes/the-luck-of-valentino/part-3/</link>
+      <pubDate>Mon, 21 Jul 2025 18:16:29 +0800</pubDate>
+      <guid>http://localhost:1313/legal-episodes/the-luck-of-valentino/part-3/</guid>
+      <description>&lt;p&gt;Hannah  spent  two weeks in the dental laboratory  of  an  old acquaintance.  In due course,  Kadmon’s secretary  handed  me the documents received in  respect  of  Omri  Tal’s claim . To my delight, Boaz Tamir had stepped into my trap. The verbose documents served on us had been prepared with a view  to confusing  Kadmon. They failed to state a plain ‘case’ as was appropriate for  a  skirmish  with  down to earth protagonists  like  Hannah  and  me.  Suppressing a malicious grin, I retired to my office to prepare our response.&lt;/p&gt;</description>
+    </item>
+    <item>
       <title>Chapter 3: An Antiques Dealer in Munich</title>
-      <link>https://breaddcrumbss.github.io/peter-blog/novellas/the-devil-in-munich/chapter-3/</link>
+      <link>http://localhost:1313/novellas/the-devil-in-munich/chapter-3/</link>
       <pubDate>Tue, 24 Jun 2025 21:25:32 +0800</pubDate>
-      <guid>https://breaddcrumbss.github.io/peter-blog/novellas/the-devil-in-munich/chapter-3/</guid>
+      <guid>http://localhost:1313/novellas/the-devil-in-munich/chapter-3/</guid>
       <description>&lt;h3 id=&#34;1-peppis-second-career&#34;&gt;1. Peppi’s Second Career&lt;/h3&gt;
 &lt;p&gt;Following this encounter, Peppi started to go from strength to strength. His friendship with Dad remained intact, with each rejoicing at the other’s success. Their paths, though,  did not cross again.&lt;/p&gt;
 &lt;p&gt;For Dad, the turning point was Russia’s withdrawal from Vienna in 1951. He and Peppi saw in it Theophil’s hand. Modern historians have come up with a more mundane explanation: Russia’s bridgehead in Vienna was of no military, political or tactical advantage. Austria’s unilateral declaration of neutrality – the price exacted by the Russians for their withdrawal – constituted a safer barrier against Western aggression than the sparse Red Army troops stationed in the old Habsburg capital.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Chapter 3: Learning the Law: Courts and Keren</title>
-      <link>https://breaddcrumbss.github.io/peter-blog/novellas/reunion-in-zermatt/chapter-3/</link>
+      <link>http://localhost:1313/novellas/reunion-in-zermatt/chapter-3/</link>
       <pubDate>Mon, 23 Jun 2025 18:13:45 +0800</pubDate>
-      <guid>https://breaddcrumbss.github.io/peter-blog/novellas/reunion-in-zermatt/chapter-3/</guid>
+      <guid>http://localhost:1313/novellas/reunion-in-zermatt/chapter-3/</guid>
       <description>&lt;h3 id=&#34;1-we-attend-trials&#34;&gt;1. We Attend Trials&lt;/h3&gt;
 &lt;p&gt;Our  teacher  granted  us leave to attend court  hearings during  three  mornings dominated  by  classes  on  science. As Pilkin’s home was  not  far  from  the District  Court  building,  I went to pick him up early in  the  morning.  His mother’s  unadorned  poorly furnished flat on the top floor of a  run  down apartment  block made me gape. Obviously, his late father had not  left  them well  off. Embarrassed, I remembered Shosh had told me that, when  opportunity presented  itself, Pilkin and his young brother, David, carried out odd  jobs, such  as  deliveries, doubling up for newspaper vendors  and  occasional  home repairs. To my relief, Pilkin appeared unaware of my consternation. He watched with satisfaction  as I sipped the cup of hot and aromatic lemon tea his mother brought  me  and then  showed  me, with relish, his small but neatly organised  and  catalogued collection of coins.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Part 2: Youth in Israel</title>
-      <link>https://breaddcrumbss.github.io/peter-blog/novels/bright-lion/part-2/</link>
+      <link>http://localhost:1313/novels/bright-lion/part-2/</link>
       <pubDate>Sun, 01 Jun 2025 14:43:13 +0800</pubDate>
-      <guid>https://breaddcrumbss.github.io/peter-blog/novels/bright-lion/part-2/</guid>
+      <guid>http://localhost:1313/novels/bright-lion/part-2/</guid>
       <description>&lt;h3 id=&#34;2-an-odd-jobs-boy&#34;&gt;2. An Odd Jobs Boy&lt;/h3&gt;
 &lt;p&gt;Father passed away a few weeks before my eighth birthday. My brother David was just three years old. I stood by the still uncovered grave, beside Mother who was crying. My eyes, in contrast, remained dry. What I recall most vividly is my impatience to go home because I thought that David, who had remained in the care of a neighbour, might need me.&lt;/p&gt;
 &lt;p&gt;As yet, the meaning of our loss had not dawned on me. I knew, of course, that I was not going to see my smiling, active and supportive Father ever again. He would no longer pat my shoulder and grin proudly when I showed him my school grades. He had gone – so Mother said – to a better world where he would know no sorrow or pain.  The effect that his death was bound to have on us – the constraints of a family without a breadwinner and the ensuing financial problems – were beyond my grasp.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Chapter 3: The City of the Lion</title>
-      <link>https://breaddcrumbss.github.io/peter-blog/novellas/a-candid-obituary/chapter-3/</link>
+      <link>http://localhost:1313/novellas/a-candid-obituary/chapter-3/</link>
       <pubDate>Sat, 31 May 2025 12:50:55 +0800</pubDate>
-      <guid>https://breaddcrumbss.github.io/peter-blog/novellas/a-candid-obituary/chapter-3/</guid>
+      <guid>http://localhost:1313/novellas/a-candid-obituary/chapter-3/</guid>
       <description>&lt;p&gt;Agnes turned out to be a vivacious English-educated Chinese, some five or six years older than Ranjan. A telephone call she received when I delivered Ranjan’s parcel convinced me that my friend was not the only man in her life. Out of curiosity, I accepted her invitation to a party in her flat but, in the event, left early as I found it difficult to fit with her guests. Still, before long I met colleagues, mainly from the English literature department, with whom I was able to mix.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Chapter 3: Along the Rhine</title>
-      <link>https://breaddcrumbss.github.io/peter-blog/novellas/the-hidden-rooms/chapter-3/</link>
+      <link>http://localhost:1313/novellas/the-hidden-rooms/chapter-3/</link>
       <pubDate>Sat, 31 May 2025 11:04:53 +0800</pubDate>
-      <guid>https://breaddcrumbss.github.io/peter-blog/novellas/the-hidden-rooms/chapter-3/</guid>
+      <guid>http://localhost:1313/novellas/the-hidden-rooms/chapter-3/</guid>
       <description>&lt;h3 id=&#34;12-her-loreley&#34;&gt;12. ‘Her Loreley’&lt;/h3&gt;
 &lt;p&gt;A  classy BMW, booked by Yuan Ming in London, was waiting for us on  our arrival  in Cologne airport.  I was relieved when one of the firm’s  employees offered to drive us through the hectic traffic of the town to the shore of the Rhine.  A tour of the dome was complemented by our lengthy visit to  the nearby  Germanic  museum, a modern structure encapsulating  a  Roman mosaic. It was  laid bare in the bombing attacks of 1944 after being hidden under  the ground for over a thousand years.&lt;/p&gt;</description>
     </item>
     <item>
+      <title>Part 4: Discussion with Boaz</title>
+      <link>http://localhost:1313/legal-episodes/ravages-of-a-guillotine/part-4/</link>
+      <pubDate>Mon, 21 Jul 2025 18:57:27 +0800</pubDate>
+      <guid>http://localhost:1313/legal-episodes/ravages-of-a-guillotine/part-4/</guid>
+      <description>&lt;p&gt;Boaz’ home was as welcoming as ever. The pleasant odours emanating from the kitchen, revealed Miri had prepared a sumptuous meal: she had mastered the art of cooking from her mother, who oversaw the kitchen in their Kibbutz, and had complemented her expertise by taking cooking lessons in Tel Aviv. Although I preferred mid-European and Mediterranean dishes to the East European cuisine, I always looked forward to a dinner at the Tamirs.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Part 4: Justice Ehud Morag</title>
+      <link>http://localhost:1313/legal-episodes/the-luck-of-valentino/part-4/</link>
+      <pubDate>Mon, 21 Jul 2025 18:18:23 +0800</pubDate>
+      <guid>http://localhost:1313/legal-episodes/the-luck-of-valentino/part-4/</guid>
+      <description>&lt;p&gt;Back  in  my minuscule office, I took stock of the situation. Having the Omri Tal case assigned  to Justice Ehood Morag was an unfortunate development. Although Morag was a  fair minded man and an excellent lawyer, his sympathy was bound to be with the victim of the accident.&lt;/p&gt;
+&lt;p&gt;Originally,  Ehood Morag’s liberal orientation had come as surprise to the legal fraternity of Tel Aviv. Prior to his elevation to the Bench, he  had been  one of the leading advocates engaged by insurance companies in road and industrial accident cases.  He was an accomplished cross-examiner.  He had also been renowned for driving a hard bargain when cases were settled before trial.&lt;/p&gt;</description>
+    </item>
+    <item>
       <title>Chapter 4: Anna&#39;s Defection and Helga&#39;s Death</title>
-      <link>https://breaddcrumbss.github.io/peter-blog/novellas/the-devil-in-munich/chapter-4/</link>
+      <link>http://localhost:1313/novellas/the-devil-in-munich/chapter-4/</link>
       <pubDate>Tue, 24 Jun 2025 21:26:57 +0800</pubDate>
-      <guid>https://breaddcrumbss.github.io/peter-blog/novellas/the-devil-in-munich/chapter-4/</guid>
+      <guid>http://localhost:1313/novellas/the-devil-in-munich/chapter-4/</guid>
       <description>&lt;h3 id=&#34;1-annas-change-of-heart&#34;&gt;1. Anna&amp;rsquo;s Change of Heart&lt;/h3&gt;
 &lt;p&gt;Anna was growing up. Occasionally she brought up subjects she had never raised before. Some related to human relationships. Others touched on faith and religion. Peppi recalled, in particular, a conversation they had one evening on their way home. They had been shocked to witness a van knocking a young man off his motorcycle. Once they had recovered, they continued their walk home. Then, unexpectedly, Anna asked: “Papa, does the Good Lord really exist?”&lt;/p&gt;</description>
     </item>
     <item>
       <title>Chapter 4: The Josephus Trial</title>
-      <link>https://breaddcrumbss.github.io/peter-blog/novellas/reunion-in-zermatt/chapter-4/</link>
+      <link>http://localhost:1313/novellas/reunion-in-zermatt/chapter-4/</link>
       <pubDate>Mon, 23 Jun 2025 18:18:24 +0800</pubDate>
-      <guid>https://breaddcrumbss.github.io/peter-blog/novellas/reunion-in-zermatt/chapter-4/</guid>
+      <guid>http://localhost:1313/novellas/reunion-in-zermatt/chapter-4/</guid>
       <description>&lt;p&gt;As I stretched myself comfortably on the bed in Pension Kegel in Zermatt, I kept  musing on my days with law firms and in universities. The foundation was laid  when, some three years after our initial encounter, Jacob Keren accepted me as a trainee. During the years I had spent with him, I learned much about  the law and  life in general.  By the time I left Israel, I had – under Keren’s guidance – developed a penchant for rescuing losing cases. That gift stood me in good stead during my years in Wellington, in Melbourne and in Singapore. All the same, my greatest success as a lawyer remained the trial  of Josephus Flavius in TA.1. Smilingly, I allowed myself to stray back to it.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Part 3: Settling Down in Tel Aviv</title>
-      <link>https://breaddcrumbss.github.io/peter-blog/novels/bright-lion/part-3/</link>
+      <link>http://localhost:1313/novels/bright-lion/part-3/</link>
       <pubDate>Sun, 01 Jun 2025 14:46:29 +0800</pubDate>
-      <guid>https://breaddcrumbss.github.io/peter-blog/novels/bright-lion/part-3/</guid>
+      <guid>http://localhost:1313/novels/bright-lion/part-3/</guid>
       <description>&lt;h3 id=&#34;7-employment-and-my-first-marriage&#34;&gt;7. Employment and My First Marriage&lt;/h3&gt;
 &lt;p&gt;After the trip with Bushi and the culmination of the Suez Crisis I looked for a job.  Financially, I could have stuck to my existing enterprises; they were sound. My ambition though was for a future on the stage. Bennie Ornan kept encouraging me to apply for a position in the army’s Entertainment Corps. He was convinced that my medical misadventure did not present an obstacle. I was, however, perturbed by the realisation that the Corps’ main object was indoctrination. I wanted to devote myself to art. For that reason I did not send feelers to TA.1. I knew that a teacher’s career was well paid and satisfactory. I knew also that, if I joined TA.1, Sheen would encourage me to perform shows. My ambition, though, remained the theatre.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Chapter 4: A Trip to Oxford</title>
-      <link>https://breaddcrumbss.github.io/peter-blog/novellas/a-candid-obituary/chapter-4/</link>
+      <link>http://localhost:1313/novellas/a-candid-obituary/chapter-4/</link>
       <pubDate>Sat, 31 May 2025 12:51:33 +0800</pubDate>
-      <guid>https://breaddcrumbss.github.io/peter-blog/novellas/a-candid-obituary/chapter-4/</guid>
+      <guid>http://localhost:1313/novellas/a-candid-obituary/chapter-4/</guid>
       <description>&lt;p&gt;A few weeks later, I had proof of the validity of their assessment. Notwithstanding my heavy teaching load and other commitments in Singapore, I had been working steadily on my doctoral thesis. Our library’s holding were adequate for my research of the English and Commonwealth law in point but, as was to be expected, had few materials from other jurisdictions. To get them, I had to spend some time in Oxford.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Chapter 4: Settlements</title>
-      <link>https://breaddcrumbss.github.io/peter-blog/novellas/the-hidden-rooms/chapter-4/</link>
+      <link>http://localhost:1313/novellas/the-hidden-rooms/chapter-4/</link>
       <pubDate>Sat, 31 May 2025 11:07:14 +0800</pubDate>
-      <guid>https://breaddcrumbss.github.io/peter-blog/novellas/the-hidden-rooms/chapter-4/</guid>
+      <guid>http://localhost:1313/novellas/the-hidden-rooms/chapter-4/</guid>
       <description>&lt;h3 id=&#34;14-exciting-auction&#34;&gt;14. Exciting Auction&lt;/h3&gt;
 &lt;p&gt;“You look refreshed,” said Bill Riggs when I arrived next morning in his office.&lt;/p&gt;
 &lt;p&gt;“Thanks. And how does the case stand?”&lt;/p&gt;
@@ -229,159 +289,250 @@
 &lt;p&gt;“They had a quarrel – a shouting match – over the  Wine Stewardship of their club. Since then they are not on speaking terms.”&lt;/p&gt;</description>
     </item>
     <item>
+      <title>Part 5: Franz Wolf</title>
+      <link>http://localhost:1313/legal-episodes/ravages-of-a-guillotine/part-5/</link>
+      <pubDate>Mon, 21 Jul 2025 18:57:29 +0800</pubDate>
+      <guid>http://localhost:1313/legal-episodes/ravages-of-a-guillotine/part-5/</guid>
+      <description>&lt;p&gt;Franz Wolf’s firm occupied  a pre-War ramshackle three story house in Peenes Street in the industrial part of Tel Aviv (adjacent to Jaffa). It took Boaz and me a brisk walk of some twenty minutes to get there. Keeping up with the speed of my army trained friend was an effort. On arrival, we had to climb up a steep external staircase leading to the office. I was relieved to drop into the comfortable armchair proffered by our host. A cup of tea made me feel better.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Part 5: My Friendship with Boaz</title>
+      <link>http://localhost:1313/legal-episodes/the-luck-of-valentino/part-5/</link>
+      <pubDate>Mon, 21 Jul 2025 18:19:18 +0800</pubDate>
+      <guid>http://localhost:1313/legal-episodes/the-luck-of-valentino/part-5/</guid>
+      <description>&lt;p&gt;As  we  walked out, Boaz heaved a sigh of relief. “Ehood Morag gives  me  a  headache. He  has  a  knack  of complicating simple points!”&lt;/p&gt;
+&lt;p&gt;“Don’t you think his analysis of our case is  right? Isn’t Morag brilliant?”&lt;/p&gt;
+&lt;p&gt;“He is; but only in a narrow field,” conceded Boaz. “But  he is unbending and makes no allowances once he steers a course. Judges like  him forget  they  deal  with  human  problems:  not  with  philosophical arguments!”&lt;/p&gt;</description>
+    </item>
+    <item>
       <title>Chapter 5: Peppi&#39;s Last Days in Munich</title>
-      <link>https://breaddcrumbss.github.io/peter-blog/novellas/the-devil-in-munich/chapter-5/</link>
+      <link>http://localhost:1313/novellas/the-devil-in-munich/chapter-5/</link>
       <pubDate>Tue, 24 Jun 2025 21:37:40 +0800</pubDate>
-      <guid>https://breaddcrumbss.github.io/peter-blog/novellas/the-devil-in-munich/chapter-5/</guid>
+      <guid>http://localhost:1313/novellas/the-devil-in-munich/chapter-5/</guid>
       <description>&lt;h3 id=&#34;1-sale-of-the-munich-business&#34;&gt;1. Sale of the Munich Business&lt;/h3&gt;
 &lt;p&gt;Peppi decorated his new flat to his own taste. The Albigensian panel painting, which prior to Helga’s death had been kept out of sight, now adorned the wall of his study.&lt;/p&gt;
 &lt;p&gt;Shortly after moving into his new flat, Peppi received two letters. Anna wrote to say she had completed her secretarial studies and had accepted a well-paid post in one of Bremen’s leading industrial firms. She thanked him for his support in the past but emphasised that she was relieved to be able, at long last, to ‘stand on her own two feet’. Peppi’s reply, congratulating her on her achievement, was laconic.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Chapter 5: Early Years of Friendship. Pilkin&#39;s Heart Attack</title>
-      <link>https://breaddcrumbss.github.io/peter-blog/novellas/reunion-in-zermatt/chapter-5/</link>
+      <link>http://localhost:1313/novellas/reunion-in-zermatt/chapter-5/</link>
       <pubDate>Mon, 23 Jun 2025 18:19:29 +0800</pubDate>
-      <guid>https://breaddcrumbss.github.io/peter-blog/novellas/reunion-in-zermatt/chapter-5/</guid>
+      <guid>http://localhost:1313/novellas/reunion-in-zermatt/chapter-5/</guid>
       <description>&lt;h3 id=&#34;1-a-budding-actor&#34;&gt;1. A Budding Actor&lt;/h3&gt;
 &lt;p&gt;In most regards, my success at the  trial  remained  a Pyhrric   victory. In the minds of the public, a worn cliché – “there is no smoke without fire” – defeated the logical argument. Josephus’ reputation remained as tarnished as ever. All the same, the historical trial of the long deceased historian constituted  a milestone in my career. Recalling it vividly during the dinner in Pension Kegel, some 45 years after the event, I concluded that the prelude  to the  great football match remained my  neatest achievement as a lawyer.  Single handed, I had won a battle that took place in an unsympathetic, even prejudiced, forum. Relaxing in Pension Kegel’s comfortable sitting room as I sipped a cup of aromatic coffee, I  mused on the episode and on the major effect it introduced  into  my erstwhile  lonesome existence: it cemented a bond between Pilkin and myself.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Part 4: Based in New York</title>
-      <link>https://breaddcrumbss.github.io/peter-blog/novels/bright-lion/part-4/</link>
+      <link>http://localhost:1313/novels/bright-lion/part-4/</link>
       <pubDate>Sun, 01 Jun 2025 14:52:12 +0800</pubDate>
-      <guid>https://breaddcrumbss.github.io/peter-blog/novels/bright-lion/part-4/</guid>
+      <guid>http://localhost:1313/novels/bright-lion/part-4/</guid>
       <description>&lt;h3 id=&#34;10-i-change-my-name-to-loeb-zohar&#34;&gt;10. I Change my Name to Loeb Zohar&lt;/h3&gt;
 &lt;p&gt;When I think today, as an aged retiree, about my returning to the status of a student, I feel I took a leap into the dark. In reality, my positions, at the ITV and before it at Tichon, were good. To change course at such a late stage involved courage and an optimistic outlook. I am glad I had them and have no regrets.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Chapter 5: End of Era</title>
-      <link>https://breaddcrumbss.github.io/peter-blog/novellas/a-candid-obituary/chapter-5/</link>
+      <link>http://localhost:1313/novellas/a-candid-obituary/chapter-5/</link>
       <pubDate>Sat, 31 May 2025 12:52:09 +0800</pubDate>
-      <guid>https://breaddcrumbss.github.io/peter-blog/novellas/a-candid-obituary/chapter-5/</guid>
+      <guid>http://localhost:1313/novellas/a-candid-obituary/chapter-5/</guid>
       <description>&lt;p&gt;On the surface, my friendship with Ranjan remained intact. Inwardly, though, I had misgivings.  Jilting a girl was one thing; holding onto money given by the girl in anticipation of a union, put a different connotation on the episode. I knew for certain that, in similar circumstances, I should have restored the money to her family. Keeping it was both inappropriate and  improper.&lt;/p&gt;
 &lt;p&gt;On this score, Ranjan showed no remorse. Risking both his own savings as well as Lillo’s bequest, he continued to dabble in the local stock exchange.  Bank statements he showed me in confidence indicated that he was making  steady gains.&lt;/p&gt;</description>
     </item>
     <item>
+      <title>Part 6: Planning Sessions</title>
+      <link>http://localhost:1313/legal-episodes/ravages-of-a-guillotine/part-6/</link>
+      <pubDate>Mon, 21 Jul 2025 19:02:00 +0800</pubDate>
+      <guid>http://localhost:1313/legal-episodes/ravages-of-a-guillotine/part-6/</guid>
+      <description>&lt;p&gt;My experience with figurine brought a smile to Rachel’s face. It reinforced her assessment of her boyfriend: an eccentric with an unworldly outlook. Her light-hearted airs gave way to a serious reflection when I outlined the information about the manufacturers’ response and the relationship between Rotem and Franz Wolf’s firm. She thought it best to discuss it straightaway with our employer.&lt;/p&gt;
+&lt;p&gt;Jacob Keren looked grave but was not unduly perturbed by the poor outlook of an action against the German firm. In any event, an attempt to sue it had to be deferred for the time being. Our clients were not wealthy and proceedings in a foreign country would entail extra expenses. This avenue might, however, be explored later on either by Franz Wolf’s firm or, possibly, by Rotem. In turn, the matter might be settled between the re-insurance companies of Rotem and of the insurers who covered the German manufacturers. Presently, we had to plan our campaign against Rotem.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Part 6: Hannah&#39;s Decision to Change Jobs</title>
+      <link>http://localhost:1313/legal-episodes/the-luck-of-valentino/part-6/</link>
+      <pubDate>Mon, 21 Jul 2025 18:19:21 +0800</pubDate>
+      <guid>http://localhost:1313/legal-episodes/the-luck-of-valentino/part-6/</guid>
+      <description>&lt;p&gt;A  few  days passed before I managed to track Hannah down. After weeks of a major  courtroom battle, she took one week of leave. When she  reappeared,  I  stared at her with concern. Once again she  had  lost  weight, looked worn out and a dry cough and persistent wheeze marred her speech.&lt;/p&gt;
+&lt;p&gt;“You need a real break, Hannah. “And you  ought to spend a few days in Eilat. A change of climate can do wonders.”&lt;/p&gt;</description>
+    </item>
+    <item>
       <title>Chapter 6: Peppi Moves to London (Theophil&#39;s Antique)</title>
-      <link>https://breaddcrumbss.github.io/peter-blog/novellas/the-devil-in-munich/chapter-6/</link>
+      <link>http://localhost:1313/novellas/the-devil-in-munich/chapter-6/</link>
       <pubDate>Tue, 24 Jun 2025 22:27:07 +0800</pubDate>
-      <guid>https://breaddcrumbss.github.io/peter-blog/novellas/the-devil-in-munich/chapter-6/</guid>
+      <guid>http://localhost:1313/novellas/the-devil-in-munich/chapter-6/</guid>
       <description>&lt;p&gt;Peppi arrived in London just in time to celebrate his seventy-fifth birthday.  Despite his advanced age, Peppi adjusted to his new environment in no time. Soon he felt at home both in Hampstead and in Kensington Church Street. With the joint efforts of father and daughter, Theophil’s Antiques continued to flourish. Within two years, they had taken over all the shopping space in the house. To facilitate further expansion, Peppi purchased the building.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Chapter 6: Our European Trip</title>
-      <link>https://breaddcrumbss.github.io/peter-blog/novellas/reunion-in-zermatt/chapter-6/</link>
+      <link>http://localhost:1313/novellas/reunion-in-zermatt/chapter-6/</link>
       <pubDate>Mon, 23 Jun 2025 18:25:40 +0800</pubDate>
-      <guid>https://breaddcrumbss.github.io/peter-blog/novellas/reunion-in-zermatt/chapter-6/</guid>
+      <guid>http://localhost:1313/novellas/reunion-in-zermatt/chapter-6/</guid>
       <description>&lt;h3 id=&#34;1-turkey&#34;&gt;1. Turkey&lt;/h3&gt;
 &lt;p&gt;It took us just over two years to save enough money. By then,  I had nearly finished my pupillage at Jacob Keren &amp;amp; Associates. Pilkin was slogging his way through his course at the Hebrew University and making every effort to shine on the stage.&lt;/p&gt;
 &lt;p&gt;Sipping a second glass of Cognac in the comfortable dining room in Pension Kegel, I recalled with amusement the unadorned berth my friend and I had taken on a Turkish ship sailing along the coast of Anatolia to Istanbul. It had been a no-frills trip marked by the need to economise. Yet, despite the parsimony dictated by our circumstances, our adventure  had left a deeper impression on me than the many high class tours and neatly planned excursions I had enjoyed later on in life.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Part 5: Retirement</title>
-      <link>https://breaddcrumbss.github.io/peter-blog/novels/bright-lion/part-5/</link>
+      <link>http://localhost:1313/novels/bright-lion/part-5/</link>
       <pubDate>Sun, 01 Jun 2025 14:54:26 +0800</pubDate>
-      <guid>https://breaddcrumbss.github.io/peter-blog/novels/bright-lion/part-5/</guid>
+      <guid>http://localhost:1313/novels/bright-lion/part-5/</guid>
       <description>&lt;h3 id=&#34;14-move-to-safed&#34;&gt;14. Move to Safed&lt;/h3&gt;
 &lt;p&gt;I returned to Brooklyn with the intention of giving up my position and proceeding to my retirement haven in Safed. I was now 65 years of age and sensed that my heydays were over and my bright youth in Tichon was far behind me. Nonetheless, my values and orientation on life had not changed. Throughout my journey I remained a non-fanatical and liberal believer.&lt;/p&gt;
 &lt;p&gt;I conveyed my decision to Avner a few days after I made my final resolution to leave. For all practical purposes he was ready to take my place. He had completed his studies with flying colours, had proved himself as cantor and had delivered a number of  sermons after prayer sessions. His style, though, differed from mine. He tended to concentrate on the topics covered by him without adding jokes or plays on words. In reality, his approach was more serious and traditional than mine.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Chapter 6: Ranjan&#39;s Perspective</title>
-      <link>https://breaddcrumbss.github.io/peter-blog/novellas/a-candid-obituary/chapter-6/</link>
+      <link>http://localhost:1313/novellas/a-candid-obituary/chapter-6/</link>
       <pubDate>Sat, 31 May 2025 12:52:46 +0800</pubDate>
-      <guid>https://breaddcrumbss.github.io/peter-blog/novellas/a-candid-obituary/chapter-6/</guid>
+      <guid>http://localhost:1313/novellas/a-candid-obituary/chapter-6/</guid>
       <description>&lt;p&gt;During my years in Wellington, I often soliloquised about Ranjan’s life. Years later, when we had returned to Singapore, I felt the need to clear my mind. My occasional talks with Tay Fung-Shuo, which I had  during my first period  in Singapore, threw no light on the episodes respecting Ranjan. Tay had remained tight lipped and, as soon as decorum permitted, changed the subject, usually by leading the way to some newly discovered antique porcelain.&lt;/p&gt;</description>
     </item>
     <item>
+      <title>Part 7: Rottem Concedes Liability</title>
+      <link>http://localhost:1313/legal-episodes/ravages-of-a-guillotine/part-7/</link>
+      <pubDate>Mon, 21 Jul 2025 19:02:03 +0800</pubDate>
+      <guid>http://localhost:1313/legal-episodes/ravages-of-a-guillotine/part-7/</guid>
+      <description>&lt;p&gt;Jacob Keren expressed satisfaction with the authorities I had unearthed in Jerusalem. They established that the issue involved was very much alive. Usually, we would have appraised the other party’s lawyer. However, sending my detailed opinion to Ben Zion Vered was risky. His duty would be to plug holes in it. Jacob Keren considered it safer to leak the opinion to Rotem.&lt;/p&gt;
+&lt;p&gt;“But how?” asked Rachel. “Wouldn’t this be … unethical?”&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Part 7: Pre-Trial Manouverings</title>
+      <link>http://localhost:1313/legal-episodes/the-luck-of-valentino/part-7/</link>
+      <pubDate>Mon, 21 Jul 2025 18:19:26 +0800</pubDate>
+      <guid>http://localhost:1313/legal-episodes/the-luck-of-valentino/part-7/</guid>
+      <description>&lt;p&gt;During  the  following  weeks, Boaz and  I  kept  exchanging  procedural broadsides.  Each clever move cancelled out another, which meant that we produced more heat than light. The  proceedings,  though,  did  not disrupt our friendship. During the very same period, I came over regularly  to the  Tamirs’ residence, usually bringing with me a bottle of wine or, as was  the custom in Israel, fresh fruit for their table. Invariably, we had  a pleasant time, playing after dinner a game of Monopoly, listening to music, or discussing fervently some political events or newly published books. The  only subject we stayed clear off  was the Omri Tal trial.&lt;/p&gt;</description>
+    </item>
+    <item>
       <title>Chapter 7: Peppi&#39;s Delve Into Porcelain</title>
-      <link>https://breaddcrumbss.github.io/peter-blog/novellas/the-devil-in-munich/chapter-7/</link>
+      <link>http://localhost:1313/novellas/the-devil-in-munich/chapter-7/</link>
       <pubDate>Tue, 24 Jun 2025 22:27:55 +0800</pubDate>
-      <guid>https://breaddcrumbss.github.io/peter-blog/novellas/the-devil-in-munich/chapter-7/</guid>
+      <guid>http://localhost:1313/novellas/the-devil-in-munich/chapter-7/</guid>
       <description>&lt;p&gt;Theophil’s Antiques continued to go from strength to strength as did Peppi’s fame. He was delighted when one of London University’s Colleges conferred on him an Honorary Doctorate. Another source of joy was Lucy’s appointment as an Adjunct Professor in another College. Initially, Peppi was concerned about her drained appearance when she returned home after her classes. To his relief she soon adjusted to her position, carrying on her new duties without neglecting their shop.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Chapter 7: The Rendezvous</title>
-      <link>https://breaddcrumbss.github.io/peter-blog/novellas/reunion-in-zermatt/chapter-7/</link>
+      <link>http://localhost:1313/novellas/reunion-in-zermatt/chapter-7/</link>
       <pubDate>Mon, 23 Jun 2025 19:13:48 +0800</pubDate>
-      <guid>https://breaddcrumbss.github.io/peter-blog/novellas/reunion-in-zermatt/chapter-7/</guid>
+      <guid>http://localhost:1313/novellas/reunion-in-zermatt/chapter-7/</guid>
       <description>&lt;h3 id=&#34;1-leah&#34;&gt;1. Leah&lt;/h3&gt;
 &lt;p&gt;Early next morning, as the Matterhorn emerged in its splendour at the first rays of light, I resumed my vigil. Soon the electric cars started to arrive from the station but the patrons alighting  from them bore no resemble to my Pilkin of old. By 9.00 a.m. I threw in the towel. For all I knew, Pilkin might be snoring  in a comfortable room in some other hotel in Zermatt. Despite his formidable size, he constituted a needle not easily pinpointed in the haystack of the buoyant flow of tourists in the popular resort.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Part 6: End of Journey</title>
-      <link>https://breaddcrumbss.github.io/peter-blog/novels/bright-lion/part-6/</link>
+      <link>http://localhost:1313/novels/bright-lion/part-6/</link>
       <pubDate>Sun, 01 Jun 2025 14:55:53 +0800</pubDate>
-      <guid>https://breaddcrumbss.github.io/peter-blog/novels/bright-lion/part-6/</guid>
+      <guid>http://localhost:1313/novels/bright-lion/part-6/</guid>
       <description>&lt;h3 id=&#34;17-ithaca&#34;&gt;17. Ithaca&lt;/h3&gt;
 &lt;p&gt;It was a dismal day. The skies were cloudy and it started to drizzle. All the same, I was set to walk over to the cemetery to visit Yentl’s grave. Apart from the flowers – a lovely bunch of Dahlias – I was going to take with me a copy of the manuscript. She had prompted me to write my autobiography. It was, accordingly, only right to bring her a copy.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Chapter 7: An Aspiring Politician</title>
-      <link>https://breaddcrumbss.github.io/peter-blog/novellas/a-candid-obituary/chapter-7/</link>
+      <link>http://localhost:1313/novellas/a-candid-obituary/chapter-7/</link>
       <pubDate>Sat, 31 May 2025 12:55:17 +0800</pubDate>
-      <guid>https://breaddcrumbss.github.io/peter-blog/novellas/a-candid-obituary/chapter-7/</guid>
+      <guid>http://localhost:1313/novellas/a-candid-obituary/chapter-7/</guid>
       <description>&lt;p&gt;It is time to turn back to my years in Wellington. The geographic remoteness did not distance Ranjan and me  from one another. We corresponded periodically but, of course, had less occasion for exchanges of views and of impressions than during our days in Oxford and in Singapore. Each was preoccupied with his own career. I tried hard to settle in the windy capital of New Zealand. My problems were related mainly to my family life and to the occasional hiccups of academia. Ranjan sought to rise in his home country. His new milieu  and environment were alien to me.&lt;/p&gt;</description>
     </item>
     <item>
+      <title>Part 8: Franz Wolf Opines</title>
+      <link>http://localhost:1313/legal-episodes/ravages-of-a-guillotine/part-8/</link>
+      <pubDate>Mon, 21 Jul 2025 19:02:05 +0800</pubDate>
+      <guid>http://localhost:1313/legal-episodes/ravages-of-a-guillotine/part-8/</guid>
+      <description>&lt;p&gt;Franz Wolf, who had kept his silence till this point, fidgeted and eventually spoke his mind. He wondered whether Rotem might get the manufacturers to cover part of the loss. His own efforts had failed as had Boaz’s direct appeal to their humanity. Still, Franz Wolf wondered whether the issue should be referred to Rotem’s re-insurers. In the ultimate, the loss would be settled by them or by the German re-insurers of the manufacturer’s insurers. If the two re-insurers had a knock-to-knock agreement, the final award of damages might actually be apportioned between them.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Part 8: Justice Baruch Shoham</title>
+      <link>http://localhost:1313/legal-episodes/the-luck-of-valentino/part-8/</link>
+      <pubDate>Mon, 21 Jul 2025 18:19:34 +0800</pubDate>
+      <guid>http://localhost:1313/legal-episodes/the-luck-of-valentino/part-8/</guid>
+      <description>&lt;p&gt;When Boaz returned to work, winter was just around the corner. Our  pre-trial  hearing with  Baruch Shoham took place on a wet and chilly day.    Unlike  the sparkling  conference table in Morag’s ante chamber, Shoham’s plain table  was covered  with  books,   untidily strewn files and proofs  of  articles  to  be published  in  The  Advocate, which he edited for our  Law  Society.  As  we entered, he raised his eyes from the document in front of him and beckoned us to sit down.&lt;/p&gt;</description>
+    </item>
+    <item>
       <title>Chapter 8: Peppi Meets Peter Berger</title>
-      <link>https://breaddcrumbss.github.io/peter-blog/novellas/the-devil-in-munich/chapter-8/</link>
+      <link>http://localhost:1313/novellas/the-devil-in-munich/chapter-8/</link>
       <pubDate>Tue, 24 Jun 2025 22:29:42 +0800</pubDate>
-      <guid>https://breaddcrumbss.github.io/peter-blog/novellas/the-devil-in-munich/chapter-8/</guid>
+      <guid>http://localhost:1313/novellas/the-devil-in-munich/chapter-8/</guid>
       <description>&lt;p&gt;Initially, Peppi’s new venture attracted limited interest. London was blessed with a number of well-established shops specialising in European ceramics. In addition, many experienced collectors tended to acquire their pieces at auctions. Peppi, though, had learned to bide his time and could afford to be patient. The modest profit made by the end of the second year of the ceramics venture signalled that he was on the right track. A few months thereafter his enterprise gained further momentum when two adjacent porcelain shops closed down. Peppi acquired the stock-in-trade of both dealers and, as anticipated, their customers turned to his shop.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Chapter 8: Intermezzo</title>
-      <link>https://breaddcrumbss.github.io/peter-blog/novellas/reunion-in-zermatt/chapter-8/</link>
+      <link>http://localhost:1313/novellas/reunion-in-zermatt/chapter-8/</link>
       <pubDate>Mon, 23 Jun 2025 19:16:02 +0800</pubDate>
-      <guid>https://breaddcrumbss.github.io/peter-blog/novellas/reunion-in-zermatt/chapter-8/</guid>
+      <guid>http://localhost:1313/novellas/reunion-in-zermatt/chapter-8/</guid>
       <description>&lt;h3 id=&#34;1-meandering-about-life&#34;&gt;1. Meandering About Life&lt;/h3&gt;
 &lt;p&gt;As I relaxed over lunch in a booth table in the mountain establishment on the Riffelalp, I kept reflecting on the forty years that had passed since the days spent by Pilkin and me in Zermatt. Professionally, I had made it. Although I was not destined to develop into a court room virtuoso, it had not taken me long to rise from strength to strength in Jacob Keren &amp;amp; Associates. Initially, I had worked with Hannah Hod,  the scion of an old Jewish family from Hamburg, who was a few years my senior. We won many of our cases and, in the process, developed a good, even if unromantic, friendship.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Chapter 8: A Spiteful Reaction</title>
-      <link>https://breaddcrumbss.github.io/peter-blog/novellas/a-candid-obituary/chapter-8/</link>
+      <link>http://localhost:1313/novellas/a-candid-obituary/chapter-8/</link>
       <pubDate>Sat, 31 May 2025 12:56:31 +0800</pubDate>
-      <guid>https://breaddcrumbss.github.io/peter-blog/novellas/a-candid-obituary/chapter-8/</guid>
+      <guid>http://localhost:1313/novellas/a-candid-obituary/chapter-8/</guid>
       <description>&lt;p&gt;Ranjan was rising in politics, continued to make a fortune at the Bar and laid the foundation for the great leap forward. He refrained from referring to his marriage but once mentioned in passing that there was no sign of a ‘family’. I drew my conclusions.&lt;/p&gt;
 &lt;p&gt;My own life, too, continued uneventfully. Then, one day, Pat spotted an advertisement for a new Chair of Law at Monash University in Melbourne. She nagged me into applying and – with the help of Fortuna – I got the job.&lt;/p&gt;</description>
     </item>
     <item>
+      <title>Part 9: Settling the Claim</title>
+      <link>http://localhost:1313/legal-episodes/ravages-of-a-guillotine/part-9/</link>
+      <pubDate>Mon, 21 Jul 2025 19:02:08 +0800</pubDate>
+      <guid>http://localhost:1313/legal-episodes/ravages-of-a-guillotine/part-9/</guid>
+      <description>&lt;p&gt;Our next meeting took place two weeks later, on a Friday afternoon. This time Dahlia and her mother were also present. Both looked awkward and out of place. To my relief, Franz Wolf’s arrival eased the atmosphere. Dropping into a vacant chair beside Dahlia he talked to her in a quiet and measured voice. Taking our cue from him, the rest of us did our best to put mother and daughter at their ease. In due course, the clouds left Dahlia’s face. Rivka’s expression, too, brightened.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Part 9: Boaz&#39;s Setback</title>
+      <link>http://localhost:1313/legal-episodes/the-luck-of-valentino/part-9/</link>
+      <pubDate>Mon, 21 Jul 2025 18:24:33 +0800</pubDate>
+      <guid>http://localhost:1313/legal-episodes/the-luck-of-valentino/part-9/</guid>
+      <description>&lt;p&gt;Leaving  our  briefcases  in the “robing room”, Boaz  and  I walked  to Nahalat  Benjamin Street. Ignoring Boaz’s covetous glance in the direction of David Mizrachi’s Eatery, I steered a course to the old fashioned  restaurant which served home cooked Jewish  dishes.  Boaz sighed  as  he perused the bill of fares but cheered up when  the  salt  beef, boiled chicken, mashed potatoes and a mixed salad were placed in front of us.&lt;/p&gt;</description>
+    </item>
+    <item>
       <title>Chapter 9: Encounter with Mr. X: Alias Friedrich Duval</title>
-      <link>https://breaddcrumbss.github.io/peter-blog/novellas/the-devil-in-munich/chapter-9/</link>
+      <link>http://localhost:1313/novellas/the-devil-in-munich/chapter-9/</link>
       <pubDate>Tue, 24 Jun 2025 22:31:59 +0800</pubDate>
-      <guid>https://breaddcrumbss.github.io/peter-blog/novellas/the-devil-in-munich/chapter-9/</guid>
+      <guid>http://localhost:1313/novellas/the-devil-in-munich/chapter-9/</guid>
       <description>&lt;p&gt;My friendship with Peppi and Lucy filled a gap in my life as well as in theirs. Usually, I packed my suitcase with joy for the flight to London and with a glum face for the return trip back to my barren  home.&lt;/p&gt;
 &lt;p&gt;I could fill a whole ‘bundle’ with anecdotes from my visits to London. Despite his advanced age, Peppi had retained his zest for life and his keen intellect; and he was full of fun. Lucy too was an excellent companion. Occasionally, when Peppi was reluctant to go out in the evening, the two of us went to the West End on our own. After the show, we would have a snack or a drink in one of the numerous bars where, often, I listened with admiration to Lucy’s witty critique of the performance.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Chapter 9: Reunion. Reminiscences</title>
-      <link>https://breaddcrumbss.github.io/peter-blog/novellas/reunion-in-zermatt/chapter-9/</link>
+      <link>http://localhost:1313/novellas/reunion-in-zermatt/chapter-9/</link>
       <pubDate>Mon, 23 Jun 2025 19:18:44 +0800</pubDate>
-      <guid>https://breaddcrumbss.github.io/peter-blog/novellas/reunion-in-zermatt/chapter-9/</guid>
+      <guid>http://localhost:1313/novellas/reunion-in-zermatt/chapter-9/</guid>
       <description>&lt;h3 id=&#34;1-we-meet&#34;&gt;1. We Meet&lt;/h3&gt;
 &lt;p&gt;My neatly tailored three piece grey suit,  white shirt and fashionable tie did little to ease the pounding of my heart as I followed the concierge through the imposing dining room of the Zermattschein. Would I recognise Pilkin as soon as I spotted our table? Had his appearance changed as much as mine?   For all I knew, he could by now have become the heart and soul of parties given in his honour by a group of jolly grandchildren!&lt;/p&gt;</description>
     </item>
     <item>
       <title>Chapter 9: Jaffna</title>
-      <link>https://breaddcrumbss.github.io/peter-blog/novellas/a-candid-obituary/chapter-9/</link>
+      <link>http://localhost:1313/novellas/a-candid-obituary/chapter-9/</link>
       <pubDate>Sat, 31 May 2025 12:58:57 +0800</pubDate>
-      <guid>https://breaddcrumbss.github.io/peter-blog/novellas/a-candid-obituary/chapter-9/</guid>
+      <guid>http://localhost:1313/novellas/a-candid-obituary/chapter-9/</guid>
       <description>&lt;p&gt;At the end of my year of leave, we returned to Melbourne.  I had to complete a few additional years of service so as to secure an adequate retirement benefit. I assured Pat that, in due course, we would move back to Singapore.&lt;/p&gt;
 &lt;p&gt;During this second spell at Monash, Marcus kept me informed about Ranjan. Politically, Ranjan moved from strength to strength. Within a few years, he became the President’s right-hand man. He was now tipped ‘the successor’ and, in his own way, wielded power and influence. But – all in all – he had remained a subordinate. The reigns were still in his superior’s hands. Occasionally, Australian television showed him in the company of other members of the Sri Lankan cabinet, assembled around their leader and ready to run his errands.&lt;/p&gt;</description>
     </item>
     <item>
+      <title>Part 10: Franz Wolf&#39;s Gift</title>
+      <link>http://localhost:1313/legal-episodes/ravages-of-a-guillotine/part-10/</link>
+      <pubDate>Mon, 21 Jul 2025 19:04:36 +0800</pubDate>
+      <guid>http://localhost:1313/legal-episodes/ravages-of-a-guillotine/part-10/</guid>
+      <description>&lt;p&gt;The matter was now settled. Jacob Keren had to leave in order to attend another meeting. Rivka and Dahlia hurried to catch a bus. Hannah, too, had to get back in order to prepare dinner for Tali and herself. Ruth Schwartz, Boaz and Rachel stayed behind in order to draw up the settlement agreement.&lt;/p&gt;
+&lt;p&gt;Feeling that his presence was no longer required, Franz Wolf got ready to depart. As I accompanied him to the entrance door, he observed that it was fortunate we had managed to conclude the negotiations. His employers in Hamburg were pressing him to come over as soon as possible and now he was able to do so. He planned to leave by the end of the month.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Part 10: Pre-Trial Meeting</title>
+      <link>http://localhost:1313/legal-episodes/the-luck-of-valentino/part-10/</link>
+      <pubDate>Mon, 21 Jul 2025 18:24:36 +0800</pubDate>
+      <guid>http://localhost:1313/legal-episodes/the-luck-of-valentino/part-10/</guid>
+      <description>&lt;p&gt;Omri  Tal  saw  Dr. Alon Shaked before the end of the  month.  When  the medical report was in, I convened the firm’s pre-trial ‘conference’, chaired by Jacob Keren in person. Shortly before the appointed hour, Hannah Hod slipped into  my  office. She  looked invigorated, had put on weight and, to my delight, had  taken  the trouble to make herself up.&lt;/p&gt;
+&lt;p&gt;“And how are you, Eli? I hear you have moved up in the world?”&lt;/p&gt;</description>
+    </item>
+    <item>
       <title>Chapter 10: Peppi&#39;s Last Years and Dillma</title>
-      <link>https://breaddcrumbss.github.io/peter-blog/novellas/the-devil-in-munich/chapter-10/</link>
+      <link>http://localhost:1313/novellas/the-devil-in-munich/chapter-10/</link>
       <pubDate>Tue, 24 Jun 2025 22:33:30 +0800</pubDate>
-      <guid>https://breaddcrumbss.github.io/peter-blog/novellas/the-devil-in-munich/chapter-10/</guid>
+      <guid>http://localhost:1313/novellas/the-devil-in-munich/chapter-10/</guid>
       <description>&lt;p&gt;Peppi, Lucy and I used to take long walks on Hampstead Heath or in Kensington Gardens. From time to time, when the weather permitted, I hired a car and drove us down to St Albans, Windsor or Oxford and, on many a fine spring day, to Hampton Court. Like most visitors, we continued to get lost in the maze and invariably had to wait, with the rest of the crowd, to be guided out by one of the warders.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Chapter 10: Pilkin&#39;s Odyssey</title>
-      <link>https://breaddcrumbss.github.io/peter-blog/novellas/reunion-in-zermatt/chapter-10/</link>
+      <link>http://localhost:1313/novellas/reunion-in-zermatt/chapter-10/</link>
       <pubDate>Mon, 23 Jun 2025 19:26:35 +0800</pubDate>
-      <guid>https://breaddcrumbss.github.io/peter-blog/novellas/reunion-in-zermatt/chapter-10/</guid>
+      <guid>http://localhost:1313/novellas/reunion-in-zermatt/chapter-10/</guid>
       <description>&lt;h3 id=&#34;1-pilkins-remaining-years-in-israel&#34;&gt;1. Pilkin’s Remaining Years in Israel&lt;/h3&gt;
 &lt;p&gt;At this point, the waiter wheeled in a trolley with our  main courses. As soon as he departed – having  re-filled our wine glasses – I said: “Well, now it’s your turn, mon Cher Pilkin – or shall I say Rabbi Zohar?”&lt;/p&gt;
 &lt;p&gt;“At you service,” he smiled benignly. “And ‘Pilkin’ will do!”&lt;/p&gt;
@@ -390,96 +541,155 @@
     </item>
     <item>
       <title>Chapter 10: Alfie&#39;s Verdict</title>
-      <link>https://breaddcrumbss.github.io/peter-blog/novellas/a-candid-obituary/chapter-10/</link>
+      <link>http://localhost:1313/novellas/a-candid-obituary/chapter-10/</link>
       <pubDate>Sat, 31 May 2025 12:59:39 +0800</pubDate>
-      <guid>https://breaddcrumbss.github.io/peter-blog/novellas/a-candid-obituary/chapter-10/</guid>
+      <guid>http://localhost:1313/novellas/a-candid-obituary/chapter-10/</guid>
       <description>&lt;p&gt;Many years have passed since that fateful turn of events, covering Ranjan’s act of revenge and the atrocities committed in Jaffna. But even after Ranjan’s untimely death at the hand of a hired assassin, my mind kept mulling through the episode. One evening I slid to my antiques room in Singapore so as to discuss the matter with Tay Fung-Shuo – now replaced by his porcelain Doppelgänger, dubbed Alfie.&lt;/p&gt;
 &lt;p&gt;“So you do old antiques dealer honour of unexpected visit,” Alfie chided me.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Epilogue</title>
-      <link>https://breaddcrumbss.github.io/peter-blog/novellas/the-hidden-rooms/epilogue/</link>
+      <link>http://localhost:1313/novellas/the-hidden-rooms/epilogue/</link>
       <pubDate>Sat, 31 May 2025 11:10:37 +0800</pubDate>
-      <guid>https://breaddcrumbss.github.io/peter-blog/novellas/the-hidden-rooms/epilogue/</guid>
+      <guid>http://localhost:1313/novellas/the-hidden-rooms/epilogue/</guid>
       <description>&lt;p&gt;The penultimate draft of &lt;em&gt;The Hidden Rooms&lt;/em&gt; was completed when I was in my sixties.  In 2010 I  self-published it as part of &lt;em&gt;The Scales of Fortuna&lt;/em&gt;. Nowadays, when I am in my nineties, I have revised it with a view to uploading  in my blog.&lt;/p&gt;
 &lt;p&gt;Much has happened in the decades that had elapsed. Following my return to Singapore, I maintained a regular correspondence with Brian Davies. Before long, he made his exit from the City and, as planned, opened an art dealership with his daughter’s friend.       All seemed clear on his horizon. His business was thriving. Then, one sad day, I received the death notice of his wife, Ruth. She had passed away peacefully from a heart attack. Initially, Brian remained in London but – after a few months – joined his daughter, who had migrated to New Zealand. Recently one of his granddaughters wrote that he had passed away. To my satisfaction, she described him as  Grampa.&lt;/p&gt;</description>
     </item>
     <item>
+      <title>Part 11: The Settlement Deed</title>
+      <link>http://localhost:1313/legal-episodes/ravages-of-a-guillotine/part-11/</link>
+      <pubDate>Mon, 21 Jul 2025 19:04:37 +0800</pubDate>
+      <guid>http://localhost:1313/legal-episodes/ravages-of-a-guillotine/part-11/</guid>
+      <description>&lt;p&gt;When I returned to the meeting – having placed Harley in my breast pocket – I found that the matter was not proceedings as smoothly as expected. To be placed before the re-insurers, the settlement agreement had to be written in English. Since 1948, though, the language of the courts had been Hebrew. Our day-to-day precedents were also expressed in the official language. The old English precedents were kept in Jacob Keren’s locked filing cabinet. As both he and his secretary had left for the day, nobody had access to them.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Part 11: The Trial</title>
+      <link>http://localhost:1313/legal-episodes/the-luck-of-valentino/part-11/</link>
+      <pubDate>Mon, 21 Jul 2025 18:24:39 +0800</pubDate>
+      <guid>http://localhost:1313/legal-episodes/the-luck-of-valentino/part-11/</guid>
+      <description>&lt;p&gt;Some  three weeks after our conference with Keren, Hannah and I  marched over to our dilapidated court building.  Boaz  looked well and at ease. In contrast, Omri Tal, who was sitting  next  to  him, appeared  nervous,  even apprehensive. He was talking in  undertone  with  the singularly attractive girl, who was doing her best to calm him down.&lt;/p&gt;
+&lt;p&gt;“Glad  to  see  everybody’s  on deck,” said  Baruch  Shoham,  having  responded graciously when all of us rose to our feet and bowed as he entered the  court room  from his chambers. Unlike the attorneys, who continued to  wear  gowns, the judge’s formal attire comprised a black silk jacket, a white shirt with  a stiff collar and a sober tie.&lt;/p&gt;</description>
+    </item>
+    <item>
       <title>Chapter 11: Peppi&#39;s Demise and Funeral</title>
-      <link>https://breaddcrumbss.github.io/peter-blog/novellas/the-devil-in-munich/chapter-11/</link>
+      <link>http://localhost:1313/novellas/the-devil-in-munich/chapter-11/</link>
       <pubDate>Tue, 24 Jun 2025 22:35:44 +0800</pubDate>
-      <guid>https://breaddcrumbss.github.io/peter-blog/novellas/the-devil-in-munich/chapter-11/</guid>
+      <guid>http://localhost:1313/novellas/the-devil-in-munich/chapter-11/</guid>
       <description>&lt;p&gt;Peppi did not mention Anna again. Neither did he refer to his will. At our next reunion the sun was shining bright and the breeze was light and soothing. Shortly after I returned to Singapore I found a concise message on my answering machine. Lucy asked me to return her call as soon as possible.&lt;/p&gt;
 &lt;p&gt;For a while I stared apprehensively at the telephone. Snippets of conversations and fleeting images from my encounters with Peppi ran through my mind. When I sensed I was in control of myself, I picked up the receiver and dialled the number I had come to know so well.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Chapter 11: A Posh Kumsits</title>
-      <link>https://breaddcrumbss.github.io/peter-blog/novellas/reunion-in-zermatt/chapter-11/</link>
+      <link>http://localhost:1313/novellas/reunion-in-zermatt/chapter-11/</link>
       <pubDate>Mon, 23 Jun 2025 19:29:20 +0800</pubDate>
-      <guid>https://breaddcrumbss.github.io/peter-blog/novellas/reunion-in-zermatt/chapter-11/</guid>
+      <guid>http://localhost:1313/novellas/reunion-in-zermatt/chapter-11/</guid>
       <description>&lt;h3 id=&#34;1-indulgence-and-old-songs&#34;&gt;1. Indulgence and Old Songs&lt;/h3&gt;
 &lt;p&gt;For the next few minutes Pilkin and I watched  as the waiter cleared the dishes and smartened the table by brushing the crumbs  into a silver tray. After a quick glance at my host, who signified his approval with a nod, he uncorked another bottle of wine and then placed the dessert menu in front of us. Sighing, Pilkin ordered Zimmes, an East European sweet made of carrots. I knew he would have preferred a créme caramel but, after  meat, a milk based dish  was proscribed for four hours.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Chapter 11: Curtains</title>
-      <link>https://breaddcrumbss.github.io/peter-blog/novellas/a-candid-obituary/chapter-11/</link>
+      <link>http://localhost:1313/novellas/a-candid-obituary/chapter-11/</link>
       <pubDate>Sat, 31 May 2025 13:00:27 +0800</pubDate>
-      <guid>https://breaddcrumbss.github.io/peter-blog/novellas/a-candid-obituary/chapter-11/</guid>
+      <guid>http://localhost:1313/novellas/a-candid-obituary/chapter-11/</guid>
       <description>&lt;p&gt;During my twenty years in Australasia, I had visited Singapore regularly. Adjusting to my new teaching environment was therefore an easy task. News about Ranjan trickled in mainly through Allen, who – unlike Marcus in Melbourne – was an avowed enemy. Marcus had, invariably, viewed Ranjan’s activities supportively. Allen underscored the seedy aspect of what he chose to tell me. He remained unabashed when, on one occasion, I gave vent to my resentment of his bias.&lt;/p&gt;</description>
     </item>
     <item>
+      <title>Part 12: Final Reflection</title>
+      <link>http://localhost:1313/legal-episodes/ravages-of-a-guillotine/part-12/</link>
+      <pubDate>Mon, 21 Jul 2025 19:04:40 +0800</pubDate>
+      <guid>http://localhost:1313/legal-episodes/ravages-of-a-guillotine/part-12/</guid>
+      <description>&lt;p&gt;To put the drafting committee at ease, I rang to let them know I was on my way. It turned out that the precedents in my hand were no longer needed. Jacob Keren’s secretary had gone back to the office to pick up a parcel she had left behind. With her assistance, they located the old precedents.&lt;/p&gt;
+&lt;p&gt;As I was no longer in a hurry, I decided to drop into David Misrachi’s eatery.  I had been too nervous to take a proper lunch before the meeting. I was hungry but it was getting too late to have dinner before the show to which Rachel and I were going.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Part 12: Meanderings During the Recess</title>
+      <link>http://localhost:1313/legal-episodes/the-luck-of-valentino/part-12/</link>
+      <pubDate>Mon, 21 Jul 2025 18:24:41 +0800</pubDate>
+      <guid>http://localhost:1313/legal-episodes/the-luck-of-valentino/part-12/</guid>
+      <description>&lt;p&gt;As  soon as the judge left the Courtroom, Boaz  departed in the company of Omri and his attractive fiancée.  Hannah  left in a hurry, mumbling she  had to report to Ruth Schwartz.  Fearing  David Mizrachi’s eatery would be crowded, I crossed the road to a nearby sandwiches and coffee bar. Munching away, I started to soliloquise about the events of  the morning and about the legal fraternity.&lt;/p&gt;
+&lt;p&gt;My years with Jacob Keren’s firm convinced me that law  and drama  coincided  mainly  in films and in poorly written books. Undoubtedly, every trial had had  its  tense and often  unpredictable moment. But I had never seen a witness crumbling in the  box and  coming up with a tearful confession. Most trials were less momentous than the Omri Tal case. Victory  was  secured  by careful  preparation,  sound  tactics  and skilful  arguments.  On  many occasions the final result was dictated by sheer luck.&lt;/p&gt;</description>
+    </item>
+    <item>
       <title>Chapter 12: Anna&#39;s Revelation</title>
-      <link>https://breaddcrumbss.github.io/peter-blog/novellas/the-devil-in-munich/chapter-12/</link>
+      <link>http://localhost:1313/novellas/the-devil-in-munich/chapter-12/</link>
       <pubDate>Tue, 24 Jun 2025 22:36:31 +0800</pubDate>
-      <guid>https://breaddcrumbss.github.io/peter-blog/novellas/the-devil-in-munich/chapter-12/</guid>
+      <guid>http://localhost:1313/novellas/the-devil-in-munich/chapter-12/</guid>
       <description>&lt;p&gt;Anna and Otto were waiting for us in the sitting room. I was struck by Anna’s appearance. The middle-aged woman who got up to meet us bore little resemblance to the charming little girl and vivacious teenager whose captivating smile livened up Peppi’s family album. I was put off by her severe expression, her firm mouth and her eyes – eyes devoid of mirth. Otto, in contrast, appeared friendly and well balanced and his eyes were warm.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Chapter 12: Post Mortem</title>
-      <link>https://breaddcrumbss.github.io/peter-blog/novellas/reunion-in-zermatt/chapter-12/</link>
+      <link>http://localhost:1313/novellas/reunion-in-zermatt/chapter-12/</link>
       <pubDate>Mon, 23 Jun 2025 19:51:32 +0800</pubDate>
-      <guid>https://breaddcrumbss.github.io/peter-blog/novellas/reunion-in-zermatt/chapter-12/</guid>
+      <guid>http://localhost:1313/novellas/reunion-in-zermatt/chapter-12/</guid>
       <description>&lt;h3 id=&#34;1-bushis-analysis&#34;&gt;1. Bushi&amp;rsquo;s Analysis&lt;/h3&gt;
 &lt;p&gt;“Well, Bushi” said Pilkin when the glasses were empty,  “it’s good to know that entre nous we’re still Bushi and Pilkin: never mind about that Professor Dr. Berger and the Rabbi Zohar stuff. So we have weathered the years! But now we have to  turn to the awkward part of our reunion: the post mortem. You remember: we agreed to have it!”&lt;/p&gt;
 &lt;p&gt;“So we did,” I nodded, “why don’t you start?”&lt;/p&gt;</description>
     </item>
     <item>
+      <title>Part 13: Settlement</title>
+      <link>http://localhost:1313/legal-episodes/the-luck-of-valentino/part-13/</link>
+      <pubDate>Mon, 21 Jul 2025 18:24:45 +0800</pubDate>
+      <guid>http://localhost:1313/legal-episodes/the-luck-of-valentino/part-13/</guid>
+      <description>&lt;p&gt;At 2.45 p.m., Hannah, Boaz and myself rose as Baruch Shoham took his place at the head of the conference table in his chambers.&lt;/p&gt;
+&lt;p&gt;“Well,” he said benignly, “I hope everybody had a pleasant lunch?”&lt;/p&gt;
+&lt;p&gt;“Thank you, Judge,” Hannah assured him on behalf of all present.&lt;/p&gt;
+&lt;p&gt;“And have you had any discussion  about a suitable figure?”&lt;/p&gt;
+&lt;p&gt;“We are still rather apart, Judge,” volunteered Hannah. “I believe both parties would like to have your view on the matter.”&lt;/p&gt;</description>
+    </item>
+    <item>
       <title>Chapter 13: Theophil&#39;s Outlook</title>
-      <link>https://breaddcrumbss.github.io/peter-blog/novellas/the-devil-in-munich/chapter-13/</link>
+      <link>http://localhost:1313/novellas/the-devil-in-munich/chapter-13/</link>
       <pubDate>Tue, 24 Jun 2025 22:37:12 +0800</pubDate>
-      <guid>https://breaddcrumbss.github.io/peter-blog/novellas/the-devil-in-munich/chapter-13/</guid>
+      <guid>http://localhost:1313/novellas/the-devil-in-munich/chapter-13/</guid>
       <description>&lt;p&gt;On my last day in London, I had an early breakfast and, following a pleasant stroll on Hampstead Heath, decided to have a last browse in Kensington Church Street. Leaving the train at Notting Hill Gate, my feet soon led me to Theophil’s Antiques.&lt;/p&gt;
 &lt;p&gt;Lucy had concluded the negotiations forthwith. The new owners transferred the stock in trade to one of their shops and removed the furniture. The building, which was to be put on the market following refurbishment, looked desolate. Gone were the tapestries, the illuminated books, the silver, the glass and the porcelain displayed in the show windows. The vacant rooms and bare floors, visible through the panes, announced ‘empty’. The signboard alone bore witness to the fact that this barren shell had once housed one of London’s famed antiques stores.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Chapter 13: Finale</title>
-      <link>https://breaddcrumbss.github.io/peter-blog/novellas/reunion-in-zermatt/chapter-13/</link>
+      <link>http://localhost:1313/novellas/reunion-in-zermatt/chapter-13/</link>
       <pubDate>Mon, 23 Jun 2025 19:53:04 +0800</pubDate>
-      <guid>https://breaddcrumbss.github.io/peter-blog/novellas/reunion-in-zermatt/chapter-13/</guid>
+      <guid>http://localhost:1313/novellas/reunion-in-zermatt/chapter-13/</guid>
       <description>&lt;p&gt;Next morning I packed my suitcase, went for a walk and then had a light breakfast. When I stepped back into the lobby, the receptionist told me the room facing the Matterhorn was ready. After I settled in it, I took Pilkin’s gift out of the spacious pocket of my parka. Was it a paper knife or some other small Bezalel artefact? First to be revealed was a fine chamois sachet. Inside it was a velvet sheath, neatly tied with a maroon lace. When I opened it, my hand started to tremble. I was holding in my hand an exquisite  religious object,  delicately crafted in silver: a Mezuzah, traditionally mounted on the door post of Jewish homes in remembrance of the Exodus myth. Smilingly, I recalled the Mezuzah that had been displayed on front door of my parents’ home in Tel Aviv. It, too, was a fine piece, but not of the same quality as the work of art I admired this morning.&lt;/p&gt;</description>
     </item>
     <item>
+      <title>Part 14: Post Mortem</title>
+      <link>http://localhost:1313/legal-episodes/the-luck-of-valentino/part-14/</link>
+      <pubDate>Mon, 21 Jul 2025 18:29:01 +0800</pubDate>
+      <guid>http://localhost:1313/legal-episodes/the-luck-of-valentino/part-14/</guid>
+      <description>&lt;p&gt;Eager  to  make her report to Ruth Schwartz, Hannah  left  straightaway. Boaz  and I spent some time drafting the settlement document and then  walked back  together, wadding our way through the thin, aggravating, drizzle. As  if by agreement, we dropped into David Mizrachi’s eatery. Lunch time was long over but both  of  us  felt the need for a cup of his strong  brewed  aromatic  coffee.&lt;/p&gt;
+&lt;p&gt;“What was that odd crack about Shalom Cohen?” I asked as I wiped the raindrops off my face. “I didn’t know Hannah and Omri had common friends?”&lt;/p&gt;</description>
+    </item>
+    <item>
       <title>Chapter 14: The Pact</title>
-      <link>https://breaddcrumbss.github.io/peter-blog/novellas/the-devil-in-munich/chapter-14/</link>
+      <link>http://localhost:1313/novellas/the-devil-in-munich/chapter-14/</link>
       <pubDate>Tue, 24 Jun 2025 22:40:41 +0800</pubDate>
-      <guid>https://breaddcrumbss.github.io/peter-blog/novellas/the-devil-in-munich/chapter-14/</guid>
+      <guid>http://localhost:1313/novellas/the-devil-in-munich/chapter-14/</guid>
       <description>&lt;p&gt;For a while we remained silent. He was watching me closely. I contemplated him with admiration. Despite his unappealing appearance I was mesmerised by his bright eyes. True, they looked straight through me and read my thoughts effortlessly and accurately, stripping me of all pretence. All the same, I sensed their warmth and was captivated by the understanding they reflected. I knew I was facing a being superior to me and realised I was in the presence of an intellect that dwarfed mine. Nonetheless, I was overcome by an intense feeling of brotherhood.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Chapter 15: Aftermath</title>
-      <link>https://breaddcrumbss.github.io/peter-blog/novellas/the-devil-in-munich/chapter-15/</link>
+      <link>http://localhost:1313/novellas/the-devil-in-munich/chapter-15/</link>
       <pubDate>Tue, 24 Jun 2025 22:41:20 +0800</pubDate>
-      <guid>https://breaddcrumbss.github.io/peter-blog/novellas/the-devil-in-munich/chapter-15/</guid>
+      <guid>http://localhost:1313/novellas/the-devil-in-munich/chapter-15/</guid>
       <description>&lt;p&gt;The driver of the van and his mate dismantled Peppi’s desk unceremoniously, hauled its three parts down the lift and returned for the armchair and stool. The former smacked his lips appreciatively as he reinserted the cork into the neck of the bottle of Slivovitz which I had asked him to take away with him.&lt;/p&gt;
 &lt;p&gt;For a while I wandered through the empty rooms, scenes from my many encounters with Peppi and Lucy racing through my mind. It was only after I had pulled the front door shut that I noticed it was raining heavily. Instantly, I realised that I had left my umbrella in the stand in the entrance hall. Looking around me anxiously for cover, my mind strayed to Theophil. At the very same moment I heard a sharp sound and turned to see my umbrella hanging from the door handle. Had the men put it there?&lt;/p&gt;</description>
     </item>
     <item>
       <title>Epilogue</title>
-      <link>https://breaddcrumbss.github.io/peter-blog/novellas/a-candid-obituary/epilogue/</link>
+      <link>http://localhost:1313/novellas/a-candid-obituary/epilogue/</link>
       <pubDate>Sat, 31 May 2025 13:03:25 +0800</pubDate>
-      <guid>https://breaddcrumbss.github.io/peter-blog/novellas/a-candid-obituary/epilogue/</guid>
+      <guid>http://localhost:1313/novellas/a-candid-obituary/epilogue/</guid>
       <description>&lt;p&gt;A few years later, Ranjan’s sad end  was vividly drawn back to my attention. One day I received an email in which the sender, who signed himself as Chula Jeyaratne, asked me for lunch. Initially, I was unable to identify him. I then recalled that I had met Ranjan’s younger brother, whose name was Chula, during my first visit to Colombo.&lt;/p&gt;
 &lt;p&gt;The man in his late middle age, who had arrived at the agreed venue before me, bore no resemblance to that unformed boy I had met years earlier. His black hair was laced with silver and his face was wrinkled.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Part 15: Planning Our Future</title>
+      <link>http://localhost:1313/legal-episodes/the-luck-of-valentino/part-15/</link>
+      <pubDate>Mon, 21 Jul 2025 18:29:03 +0800</pubDate>
+      <guid>http://localhost:1313/legal-episodes/the-luck-of-valentino/part-15/</guid>
+      <description>&lt;p&gt;“Well Eli,” said Boaz after a short lull. “This is a good a time to bring up  a point I wanted to raise with you for a while. As you say:  Keren’s  firm isn’t paradise; ditto for Israel Silver’s outfit. Why don’t we  make ourselves independent?”&lt;/p&gt;
+&lt;p&gt;“Start  a  new practice? There  are some two hundred law firms  in  Tel Aviv?”&lt;/p&gt;
+&lt;p&gt;“Even  so,  don’t  you think we can make it? We had good  training;  and  we’ve worked well together as a team in law school!”&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
