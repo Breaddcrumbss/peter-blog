@@ -9,6 +9,6 @@ hideSummary = true
 
 +++
 
-Also available [here](https://peterellingernovellas.blogspot.com/2025/06/reunion-in-zermatt.html)
+*Also available [here](https://peterellingernovellas.blogspot.com/2025/06/reunion-in-zermatt.html)*
 
 [This episode is also described in Bright Lion, where it is told as seen by Rabbi Zohar]
