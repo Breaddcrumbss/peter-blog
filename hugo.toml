@@ -4,6 +4,9 @@ title = 'Peter Ellinger'
 theme = 'PaperMod'
 
 [params]
+  description = "Peter Ellinger blog, contains many of Professor Ellinger's personal works and stories"
+  author = "Peter Ellinger"
+
   ShowReadingTime = true
   ShowPostNavLinks = true
   ShowBreadcrumbs = true
@@ -38,6 +41,11 @@ theme = 'PaperMod'
   [[menu.main]]
     name = "Legal Episodes"
     url = "/legal-episodes/"
+    weight = 3
+
+  [[menu.main]]
+    name = "Essays"
+    url = "/essays/"
     weight = 3
 
   [[menu.main]]

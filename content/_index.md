@@ -21,5 +21,6 @@ The blog does not cover books and articles dealing with legal problems. A list t
 - [Novels](novels/)
 - [Novellas](novellas/)
 - [Legal Episodes](legal-episodes/)
+- [Essays](essays/)
 
 ---
