@@ -6,4 +6,8 @@ affictionado or afficionado
 
 year and location for compliance
 
+publish the unpublished episodes
+
+add google console, login
+
 add short summaries?
