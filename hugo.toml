@@ -44,9 +44,14 @@ theme = 'PaperMod'
     weight = 3
 
   [[menu.main]]
+    name = "Short Stories"
+    url = "/short-stories/"
+    weight = 4
+
+  [[menu.main]]
     name = "Essays"
     url = "/essays/"
-    weight = 3
+    weight = 5
 
   [[menu.main]]
     name = "About Me"
