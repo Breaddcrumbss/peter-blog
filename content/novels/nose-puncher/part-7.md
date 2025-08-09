@@ -63,4 +63,4 @@ His observation gave me food for thought. Akhenaton preached a form of monotheis
 
 “I doubt if he, himself, appreciated his place in the history of mankind during his lifetime,” I mused.
 
-“True,” replied Archie. “But that applies to each of your punchees.” 
+“True,” replied Archie. “But that applies to each of your punchees.”
