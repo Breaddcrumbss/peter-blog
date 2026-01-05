@@ -2,6 +2,12 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>http://localhost:1313/dialogues/kafka-the-man/part-1/</loc>
+    <lastmod>2026-01-05T20:58:37+08:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/dialogues/book-of-jonah/part-1/</loc>
+    <lastmod>2026-01-05T20:51:21+08:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/novels/nose-puncher/part-1/</loc>
     <lastmod>2025-07-28T21:12:24+08:00</lastmod>
   </url><url>
@@ -58,6 +64,12 @@
   </url><url>
     <loc>http://localhost:1313/novellas/the-hidden-rooms/chapter-1/</loc>
     <lastmod>2025-05-30T19:57:20+08:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/dialogues/kafka-the-man/part-2/</loc>
+    <lastmod>2026-01-05T20:59:19+08:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/dialogues/book-of-jonah/part-2/</loc>
+    <lastmod>2026-01-05T20:52:20+08:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/novels/nose-puncher/part-2/</loc>
     <lastmod>2025-07-28T21:12:27+08:00</lastmod>
@@ -116,6 +128,12 @@
     <loc>http://localhost:1313/novellas/the-hidden-rooms/chapter-2/</loc>
     <lastmod>2025-05-30T19:59:06+08:00</lastmod>
   </url><url>
+    <loc>http://localhost:1313/dialogues/kafka-the-man/part-3/</loc>
+    <lastmod>2026-01-05T21:00:23+08:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/dialogues/book-of-jonah/part-3/</loc>
+    <lastmod>2026-01-05T20:52:48+08:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/novels/nose-puncher/part-3/</loc>
     <lastmod>2025-07-28T21:12:29+08:00</lastmod>
   </url><url>
@@ -169,6 +187,12 @@
   </url><url>
     <loc>http://localhost:1313/novellas/the-hidden-rooms/chapter-3/</loc>
     <lastmod>2025-05-31T11:04:53+08:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/dialogues/kafka-the-man/part-4/</loc>
+    <lastmod>2026-01-05T21:08:19+08:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/dialogues/book-of-jonah/part-4/</loc>
+    <lastmod>2026-01-05T20:54:35+08:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/novels/nose-puncher/part-4/</loc>
     <lastmod>2025-07-28T21:12:32+08:00</lastmod>
@@ -224,6 +248,12 @@
     <loc>http://localhost:1313/novellas/the-hidden-rooms/chapter-4/</loc>
     <lastmod>2025-05-31T11:07:14+08:00</lastmod>
   </url><url>
+    <loc>http://localhost:1313/dialogues/kafka-the-man/part-5/</loc>
+    <lastmod>2026-01-05T21:12:41+08:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/dialogues/book-of-jonah/part-5/</loc>
+    <lastmod>2026-01-05T20:55:07+08:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/novels/nose-puncher/part-5/</loc>
     <lastmod>2025-07-28T21:12:34+08:00</lastmod>
   </url><url>
@@ -274,6 +304,9 @@
   </url><url>
     <loc>http://localhost:1313/novellas/a-candid-obituary/chapter-5/</loc>
     <lastmod>2025-05-31T12:52:09+08:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/dialogues/kafka-the-man/part-6/</loc>
+    <lastmod>2026-01-05T21:14:59+08:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/novels/nose-puncher/part-6/</loc>
     <lastmod>2025-07-28T21:12:40+08:00</lastmod>
@@ -550,6 +583,15 @@
   </url><url>
     <loc>http://localhost:1313/novellas/a-candid-obituary/epilogue/</loc>
     <lastmod>2025-05-31T13:03:25+08:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/dialogues/kafka-the-man/</loc>
+    <lastmod>2026-01-05T20:58:27+08:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/dialogues/book-of-jonah/</loc>
+    <lastmod>2026-01-05T20:50:42+08:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/dialogues/</loc>
+    <lastmod>2026-01-05T20:48:43+08:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/essays/kafka-clay/</loc>
     <lastmod>2026-01-05T20:16:40+08:00</lastmod>

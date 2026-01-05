@@ -54,6 +54,11 @@ theme = 'PaperMod'
     weight = 5
 
   [[menu.main]]
+    name = "Dialogues"
+    url = "/dialogues/"
+    weight = 6
+
+  [[menu.main]]
     name = "About Me"
     url = "/about-me/"
     weight = 10
