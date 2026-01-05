@@ -64,12 +64,12 @@ The words quoted from Joyce’s story treat “intercourse”, “love” and �
 
 It is, therefore, sound to dismiss the quoted words as a fallacy. They are expressed pugnaciously but without an analysis of their soundness.
 
-[*] Samuel I (18:1) relates “that the soul of Yehonatan [King Saul’s son] was knit with the soul of David, and Yehonatan loved him as his own soul”.  The traditional construction treats the passage as referring to brotherly love. Some Bible Critics do, however, raise their eyebrows when, in his lament, known as the song of the song of the bow, David says: (Samuel II, 1:26): “I am distressed for thee my brother Yehonatan … your love for me was wonderful, more than the love of women.”
+[^*]: Samuel I (18:1) relates “that the soul of Yehonatan [King Saul’s son] was knit with the soul of David, and Yehonatan loved him as his own soul”.  The traditional construction treats the passage as referring to brotherly love. Some Bible Critics do, however, raise their eyebrows when, in his lament, known as the song of the song of the bow, David says: (Samuel II, 1:26): “I am distressed for thee my brother Yehonatan … your love for me was wonderful, more than the love of women.”
 
-[^†] It is understood that the same ambiguity arises in other tongues but it appears advisable to confine this discussion to languages commanded.
+[^†]: It is understood that the same ambiguity arises in other tongues but it appears advisable to confine this discussion to languages commanded.
 
-[^‡] But note that in some cases the word is used so as to negate a relationship, e.g. “they are just friends.”
+[^‡]: But note that in some cases the word is used so as to negate a relationship, e.g. “they are just friends.”
 
-[^§] As member of a Bridge Club, I have become a ‘friend’ of some other players. This means that we are prepared to have matches against each other or join efforts as a team. But none of us expect this friendship to stretch to areas other than Bridge.
+[^§]: As member of a Bridge Club, I have become a ‘friend’ of some other players. This means that we are prepared to have matches against each other or join efforts as a team. But none of us expect this friendship to stretch to areas other than Bridge.
 
-[^**] I wish to acknowledge my debt to Professor Hugo Bergman of the Hebrew University of Jerusalem, which has remained fresh in my mind.
+[^**]: I wish to acknowledge my debt to Professor Hugo Bergman of the Hebrew University of Jerusalem, which has remained fresh in my mind.
