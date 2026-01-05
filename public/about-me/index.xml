@@ -1,11 +1,33 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><title>About Me on Peter Ellinger</title><link>https://peter-ellinger-blog.com/about-me/</link><description>Recent content in About Me on Peter Ellinger</description><generator>Hugo -- 0.152.2</generator><language>en-us</language><lastBuildDate>Tue, 24 Jun 2025 13:00:37 +0800</lastBuildDate><atom:link href="https://peter-ellinger-blog.com/about-me/index.xml" rel="self" type="application/rss+xml"/><item><title>Legal Publications</title><link>https://peter-ellinger-blog.com/about-me/legal-pubs/</link><pubDate>Mon, 23 Jun 2025 19:57:54 +0800</pubDate><guid>https://peter-ellinger-blog.com/about-me/legal-pubs/</guid><description>&lt;h2 id="list-of-peter-ellingers-publications-on-legal-topics"&gt;List of Peter Ellinger’s Publications on Legal Topics&lt;/h2&gt;
-&lt;h3 id="books-and-book-length-chapters-in-co-authored-books"&gt;&lt;ins&gt;Books and Book-Length Chapters in Co-Authored Books&lt;/ins&gt;&lt;/h3&gt;
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>About Me on Peter Ellinger</title>
+    <link>http://localhost:1313/about-me/</link>
+    <description>Recent content in About Me on Peter Ellinger</description>
+    <generator>Hugo -- 0.152.2</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 24 Jun 2025 13:00:37 +0800</lastBuildDate>
+    <atom:link href="http://localhost:1313/about-me/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Legal Publications</title>
+      <link>http://localhost:1313/about-me/legal-pubs/</link>
+      <pubDate>Mon, 23 Jun 2025 19:57:54 +0800</pubDate>
+      <guid>http://localhost:1313/about-me/legal-pubs/</guid>
+      <description>&lt;h2 id=&#34;list-of-peter-ellingers-publications-on-legal-topics&#34;&gt;List of Peter Ellinger’s Publications on Legal Topics&lt;/h2&gt;
+&lt;h3 id=&#34;books-and-book-length-chapters-in-co-authored-books&#34;&gt;&lt;ins&gt;Books and Book-Length Chapters in Co-Authored Books&lt;/ins&gt;&lt;/h3&gt;
 &lt;ol&gt;
 &lt;li&gt;
 &lt;p&gt;&lt;em&gt;Documentary Letters of Credit&lt;/em&gt; - A Comparative Study (revised D. Phil. thesis, comparing English, American, French and German law); University of Singapore Press, 1970, li + 389 pp.&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
-&lt;p&gt;“&lt;em&gt;Bills of Exchange and Banking&lt;/em&gt;” being Chapter 3 of Vol. 2 of Chitty on Contracts; London, Sweet and Maxwell: 23rd ed., 1968, pp. 162 - 242; 24th ed., 1977, p. 135 - 278; 25th ed., 1983, pp. 2451 - 2588; 26th ed., 1989, pp. 179 - 390; 27th ed, 1994, [Chap. 33], pp. 173 – 391, 27th ed. 1999, [Chap. 33], pp. 170 – 379; 28th ed., 1999, [Chap. 34], pp. 169-376 (plus 3rd Supp.); 29th ed. 2004 [Chap 34; with Prof. R.H.A. Hooley], pp. 253 – 497.&lt;/p&gt;</description></item><item><title>Self-Published Books</title><link>https://peter-ellinger-blog.com/about-me/self-pubs/</link><pubDate>Tue, 24 Jun 2025 13:00:37 +0800</pubDate><guid>https://peter-ellinger-blog.com/about-me/self-pubs/</guid><description>&lt;p&gt;&lt;strong&gt;&lt;ins&gt;Peter Ellinger Self-Published Books&lt;/ins&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;“&lt;em&gt;Bills of Exchange and Banking&lt;/em&gt;” being Chapter 3 of Vol. 2 of Chitty on Contracts; London, Sweet and Maxwell: 23rd ed., 1968, pp. 162 - 242; 24th ed., 1977, p. 135 - 278; 25th ed., 1983, pp. 2451 - 2588; 26th ed., 1989, pp. 179 - 390; 27th ed, 1994, [Chap. 33], pp. 173 – 391, 27th ed. 1999, [Chap. 33], pp. 170 – 379; 28th ed., 1999, [Chap. 34], pp. 169-376  (plus 3rd Supp.);  29th ed. 2004 [Chap 34; with Prof. R.H.A. Hooley], pp. 253 – 497.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Self-Published Books</title>
+      <link>http://localhost:1313/about-me/self-pubs/</link>
+      <pubDate>Tue, 24 Jun 2025 13:00:37 +0800</pubDate>
+      <guid>http://localhost:1313/about-me/self-pubs/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;&lt;ins&gt;Peter Ellinger Self-Published Books&lt;/ins&gt;&lt;/strong&gt;&lt;/p&gt;
 &lt;ol&gt;
 &lt;li&gt;
 &lt;p&gt;A Candid Obituary (2006)&lt;/p&gt;
@@ -38,4 +60,7 @@
 &lt;p&gt;The Nose Puncher (2022)&lt;/p&gt;
 &lt;/li&gt;
 &lt;/ol&gt;
-&lt;p&gt;All these books were published by Conet Printing. The copyright is vested in Peter Ellinger.&lt;/p&gt;</description></item></channel></rss>
+&lt;p&gt;All these books were published by Conet Printing. The copyright is vested in Peter Ellinger.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
