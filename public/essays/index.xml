@@ -1,19 +1,26 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Essays on Peter Ellinger</title>
     <link>http://localhost:1313/essays/</link>
     <description>Recent content in Essays on Peter Ellinger</description>
-    <generator>Hugo</generator>
+    <generator>Hugo -- 0.152.2</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 05 Jan 2026 19:55:18 +0800</lastBuildDate>
+    <lastBuildDate>Mon, 05 Jan 2026 20:16:40 +0800</lastBuildDate>
     <atom:link href="http://localhost:1313/essays/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Kafka&#39;s Feet of Clay</title>
+      <link>http://localhost:1313/essays/kafka-clay/</link>
+      <pubDate>Mon, 05 Jan 2026 20:16:40 +0800</pubDate>
+      <guid>http://localhost:1313/essays/kafka-clay/</guid>
+      <description></description>
+    </item>
     <item>
       <title>Love and Friendship</title>
       <link>http://localhost:1313/essays/love-and-friendship/</link>
       <pubDate>Mon, 05 Jan 2026 19:55:18 +0800</pubDate>
       <guid>http://localhost:1313/essays/love-and-friendship/</guid>
-      <description>&lt;p&gt;In A Painful Case (one of the short stories narrated by James Joyce in Dubliners), the hero opines: “Love between man and man is impossible because there must not be sexual intercourse and friendship between man and woman is impossible because there must be sexual intercourse.” It is not clear from the text whether this statement is made by Joyce’s hero as a consequence of a personal disappointment or is meant to be the author’s statement of a universal truth. This essay sets out to establish that, in general, the statement is a fallacy.&lt;/p&gt;</description>
+      <description></description>
     </item>
   </channel>
 </rss>

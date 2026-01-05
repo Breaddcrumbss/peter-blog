@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Ravages of a Guillotine on Peter Ellinger</title>
     <link>http://localhost:1313/legal-episodes/ravages-of-a-guillotine/</link>
     <description>Recent content in Ravages of a Guillotine on Peter Ellinger</description>
-    <generator>Hugo</generator>
+    <generator>Hugo -- 0.152.2</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 21 Jul 2025 19:04:40 +0800</lastBuildDate>
     <atom:link href="http://localhost:1313/legal-episodes/ravages-of-a-guillotine/index.xml" rel="self" type="application/rss+xml" />
@@ -13,7 +13,9 @@
       <link>http://localhost:1313/legal-episodes/ravages-of-a-guillotine/part-1/</link>
       <pubDate>Mon, 21 Jul 2025 18:47:35 +0800</pubDate>
       <guid>http://localhost:1313/legal-episodes/ravages-of-a-guillotine/part-1/</guid>
-      <description>&lt;p&gt;That morning I arrived at work just before Rachel. She caught up with me at the foot of the staircase.  Grinning, she conceded: “So you won the race, my pet. You must have got up right after you crawled into your bed.”&lt;/p&gt;&#xA;&lt;p&gt;“I don’t need much sleep. And you waited by your ‘phone for my call. I really don’t know why you fret like this.”&lt;/p&gt;&#xA;&lt;p&gt;“You left my flat at 2.00 a.m. and were too proud to call a taxi!  You had to take the half hour walk home!”&lt;/p&gt;</description>
+      <description>&lt;p&gt;That morning I arrived at work just before Rachel. She caught up with me at the foot of the staircase.  Grinning, she conceded: “So you won the race, my pet. You must have got up right after you crawled into your bed.”&lt;/p&gt;
+&lt;p&gt;“I don’t need much sleep. And you waited by your ‘phone for my call. I really don’t know why you fret like this.”&lt;/p&gt;
+&lt;p&gt;“You left my flat at 2.00 a.m. and were too proud to call a taxi!  You had to take the half hour walk home!”&lt;/p&gt;</description>
     </item>
     <item>
       <title>Part 2: Meeting Dahlia - The Client</title>
@@ -27,7 +29,8 @@
       <link>http://localhost:1313/legal-episodes/ravages-of-a-guillotine/part-3/</link>
       <pubDate>Mon, 21 Jul 2025 18:57:25 +0800</pubDate>
       <guid>http://localhost:1313/legal-episodes/ravages-of-a-guillotine/part-3/</guid>
-      <description>&lt;p&gt;Rachel’s and returned to her office. As we went again through the facts, we concluded the accident had been triggered off by a fault in the machine. Still, in an action against the manufacturers it would hard to establish the fault. We preferred a suit against Wollor – the local firm – provided Rotem admitted liability. The question was how to persuade it.&lt;/p&gt;&#xA;&lt;p&gt;In the ultimate, it was an open-ended issue. Wolf’s record with the insurers would, undoubtedly, be a relevant fact. So would the orientation of Rotem’s personnel in charge. In this regard, both Rachel and I had some hope. Any decision of the Board of Directors would depend on a recommendation of the in-house lawyers. We knew both well and so embarked on an assessment of their likely reaction.&lt;/p&gt;</description>
+      <description>&lt;p&gt;Rachel’s and returned to her office. As we went again through the facts, we concluded the accident had been triggered off by a fault in the machine. Still, in an action against the manufacturers it would hard to establish the fault. We preferred a suit against Wollor – the local firm – provided Rotem admitted liability. The question was how to persuade it.&lt;/p&gt;
+&lt;p&gt;In the ultimate, it was an open-ended issue. Wolf’s record with the insurers would, undoubtedly, be a relevant fact. So would the orientation of Rotem’s personnel in charge. In this regard, both Rachel and I had some hope. Any decision of the Board of Directors would depend on a recommendation of the in-house lawyers. We knew both well and so embarked on an assessment of their likely reaction.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Part 4: Discussion with Boaz</title>
@@ -48,14 +51,16 @@
       <link>http://localhost:1313/legal-episodes/ravages-of-a-guillotine/part-6/</link>
       <pubDate>Mon, 21 Jul 2025 19:02:00 +0800</pubDate>
       <guid>http://localhost:1313/legal-episodes/ravages-of-a-guillotine/part-6/</guid>
-      <description>&lt;p&gt;My experience with figurine brought a smile to Rachel’s face. It reinforced her assessment of her boyfriend: an eccentric with an unworldly outlook. Her light-hearted airs gave way to a serious reflection when I outlined the information about the manufacturers’ response and the relationship between Rotem and Franz Wolf’s firm. She thought it best to discuss it straightaway with our employer.&lt;/p&gt;&#xA;&lt;p&gt;Jacob Keren looked grave but was not unduly perturbed by the poor outlook of an action against the German firm. In any event, an attempt to sue it had to be deferred for the time being. Our clients were not wealthy and proceedings in a foreign country would entail extra expenses. This avenue might, however, be explored later on either by Franz Wolf’s firm or, possibly, by Rotem. In turn, the matter might be settled between the re-insurance companies of Rotem and of the insurers who covered the German manufacturers. Presently, we had to plan our campaign against Rotem.&lt;/p&gt;</description>
+      <description>&lt;p&gt;My experience with figurine brought a smile to Rachel’s face. It reinforced her assessment of her boyfriend: an eccentric with an unworldly outlook. Her light-hearted airs gave way to a serious reflection when I outlined the information about the manufacturers’ response and the relationship between Rotem and Franz Wolf’s firm. She thought it best to discuss it straightaway with our employer.&lt;/p&gt;
+&lt;p&gt;Jacob Keren looked grave but was not unduly perturbed by the poor outlook of an action against the German firm. In any event, an attempt to sue it had to be deferred for the time being. Our clients were not wealthy and proceedings in a foreign country would entail extra expenses. This avenue might, however, be explored later on either by Franz Wolf’s firm or, possibly, by Rotem. In turn, the matter might be settled between the re-insurance companies of Rotem and of the insurers who covered the German manufacturers. Presently, we had to plan our campaign against Rotem.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Part 7: Rottem Concedes Liability</title>
       <link>http://localhost:1313/legal-episodes/ravages-of-a-guillotine/part-7/</link>
       <pubDate>Mon, 21 Jul 2025 19:02:03 +0800</pubDate>
       <guid>http://localhost:1313/legal-episodes/ravages-of-a-guillotine/part-7/</guid>
-      <description>&lt;p&gt;Jacob Keren expressed satisfaction with the authorities I had unearthed in Jerusalem. They established that the issue involved was very much alive. Usually, we would have appraised the other party’s lawyer. However, sending my detailed opinion to Ben Zion Vered was risky. His duty would be to plug holes in it. Jacob Keren considered it safer to leak the opinion to Rotem.&lt;/p&gt;&#xA;&lt;p&gt;“But how?” asked Rachel. “Wouldn’t this be … unethical?”&lt;/p&gt;</description>
+      <description>&lt;p&gt;Jacob Keren expressed satisfaction with the authorities I had unearthed in Jerusalem. They established that the issue involved was very much alive. Usually, we would have appraised the other party’s lawyer. However, sending my detailed opinion to Ben Zion Vered was risky. His duty would be to plug holes in it. Jacob Keren considered it safer to leak the opinion to Rotem.&lt;/p&gt;
+&lt;p&gt;“But how?” asked Rachel. “Wouldn’t this be … unethical?”&lt;/p&gt;</description>
     </item>
     <item>
       <title>Part 8: Franz Wolf Opines</title>
@@ -76,7 +81,8 @@
       <link>http://localhost:1313/legal-episodes/ravages-of-a-guillotine/part-10/</link>
       <pubDate>Mon, 21 Jul 2025 19:04:36 +0800</pubDate>
       <guid>http://localhost:1313/legal-episodes/ravages-of-a-guillotine/part-10/</guid>
-      <description>&lt;p&gt;The matter was now settled. Jacob Keren had to leave in order to attend another meeting. Rivka and Dahlia hurried to catch a bus. Hannah, too, had to get back in order to prepare dinner for Tali and herself. Ruth Schwartz, Boaz and Rachel stayed behind in order to draw up the settlement agreement.&lt;/p&gt;&#xA;&lt;p&gt;Feeling that his presence was no longer required, Franz Wolf got ready to depart. As I accompanied him to the entrance door, he observed that it was fortunate we had managed to conclude the negotiations. His employers in Hamburg were pressing him to come over as soon as possible and now he was able to do so. He planned to leave by the end of the month.&lt;/p&gt;</description>
+      <description>&lt;p&gt;The matter was now settled. Jacob Keren had to leave in order to attend another meeting. Rivka and Dahlia hurried to catch a bus. Hannah, too, had to get back in order to prepare dinner for Tali and herself. Ruth Schwartz, Boaz and Rachel stayed behind in order to draw up the settlement agreement.&lt;/p&gt;
+&lt;p&gt;Feeling that his presence was no longer required, Franz Wolf got ready to depart. As I accompanied him to the entrance door, he observed that it was fortunate we had managed to conclude the negotiations. His employers in Hamburg were pressing him to come over as soon as possible and now he was able to do so. He planned to leave by the end of the month.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Part 11: The Settlement Deed</title>
@@ -90,7 +96,8 @@
       <link>http://localhost:1313/legal-episodes/ravages-of-a-guillotine/part-12/</link>
       <pubDate>Mon, 21 Jul 2025 19:04:40 +0800</pubDate>
       <guid>http://localhost:1313/legal-episodes/ravages-of-a-guillotine/part-12/</guid>
-      <description>&lt;p&gt;To put the drafting committee at ease, I rang to let them know I was on my way. It turned out that the precedents in my hand were no longer needed. Jacob Keren’s secretary had gone back to the office to pick up a parcel she had left behind. With her assistance, they located the old precedents.&lt;/p&gt;&#xA;&lt;p&gt;As I was no longer in a hurry, I decided to drop into David Misrachi’s eatery.  I had been too nervous to take a proper lunch before the meeting. I was hungry but it was getting too late to have dinner before the show to which Rachel and I were going.&lt;/p&gt;</description>
+      <description>&lt;p&gt;To put the drafting committee at ease, I rang to let them know I was on my way. It turned out that the precedents in my hand were no longer needed. Jacob Keren’s secretary had gone back to the office to pick up a parcel she had left behind. With her assistance, they located the old precedents.&lt;/p&gt;
+&lt;p&gt;As I was no longer in a hurry, I decided to drop into David Misrachi’s eatery.  I had been too nervous to take a proper lunch before the meeting. I was hungry but it was getting too late to have dinner before the show to which Rachel and I were going.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

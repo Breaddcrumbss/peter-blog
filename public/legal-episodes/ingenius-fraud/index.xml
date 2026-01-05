@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>The Ingenius Fraud on Peter Ellinger</title>
     <link>http://localhost:1313/legal-episodes/ingenius-fraud/</link>
     <description>Recent content in The Ingenius Fraud on Peter Ellinger</description>
-    <generator>Hugo</generator>
+    <generator>Hugo -- 0.152.2</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 21 Jul 2025 22:59:00 +0800</lastBuildDate>
     <atom:link href="http://localhost:1313/legal-episodes/ingenius-fraud/index.xml" rel="self" type="application/rss+xml" />
@@ -13,7 +13,8 @@
       <link>http://localhost:1313/legal-episodes/ingenius-fraud/part-1/</link>
       <pubDate>Mon, 21 Jul 2025 22:55:55 +0800</pubDate>
       <guid>http://localhost:1313/legal-episodes/ingenius-fraud/part-1/</guid>
-      <description>&lt;p&gt;Shortly after retiring  from my post as a legal consultant, I received a telephone call from an old friend in arms. Thomas Aung, who still ran his legal practice although he was close to eighty, wanted my advice on the payment of fraudulently drawn cheques. As I now had ample time on my hands I agreed to discuss the case with him on the next day.&lt;/p&gt;&#xA;&lt;p&gt;The facts that unfolded during our conversation raised my eyebrows. The victim, a Mr. Lim who died at the ripe age of 92, had migrated to Singapore from China early in the 20th century.  A poorly educated man, who had never mastered English, he succeeded to build up a reasonably prosperous sweetmeats business. Naturally, he needed a current cum savings account and, eventually, opened it with a bank that had a branch near to his enterprise. Being unable to sign his name in Latin characters, he used his Chinese signatures and a rubber stamp (a ‘chop’) setting out the name of the business.&lt;/p&gt;</description>
+      <description>&lt;p&gt;Shortly after retiring  from my post as a legal consultant, I received a telephone call from an old friend in arms. Thomas Aung, who still ran his legal practice although he was close to eighty, wanted my advice on the payment of fraudulently drawn cheques. As I now had ample time on my hands I agreed to discuss the case with him on the next day.&lt;/p&gt;
+&lt;p&gt;The facts that unfolded during our conversation raised my eyebrows. The victim, a Mr. Lim who died at the ripe age of 92, had migrated to Singapore from China early in the 20th century.  A poorly educated man, who had never mastered English, he succeeded to build up a reasonably prosperous sweetmeats business. Naturally, he needed a current cum savings account and, eventually, opened it with a bank that had a branch near to his enterprise. Being unable to sign his name in Latin characters, he used his Chinese signatures and a rubber stamp (a ‘chop’) setting out the name of the business.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Part 2: Am Asked to Opine</title>
@@ -27,7 +28,8 @@
       <link>http://localhost:1313/legal-episodes/ingenius-fraud/part-3/</link>
       <pubDate>Mon, 21 Jul 2025 22:56:14 +0800</pubDate>
       <guid>http://localhost:1313/legal-episodes/ingenius-fraud/part-3/</guid>
-      <description>&lt;p&gt;To get a clear picture of the facts, I asked to have a meeting with Mr. Lim’s sons and heirs. My motivation was simple. After almost fifty years with the law, I had no wish to tarnish my reputation by getting involved in a questionable case. Further, I was afraid of ending up with an omelette on my face.&lt;/p&gt;&#xA;&lt;p&gt;The late Mr. Lim’s three sons were waiting for me when I arrived for the meeting, which took place in the unadorned conference room of the old law firm.  Thomas emphasised that we were dealing with a ‘modest’ estate.  Substantial expenditure was to be avoided. Initially, the estate had hope that the  Bank would come up with a settlement. But up to now the Bank had taken a militant stand.&lt;/p&gt;</description>
+      <description>&lt;p&gt;To get a clear picture of the facts, I asked to have a meeting with Mr. Lim’s sons and heirs. My motivation was simple. After almost fifty years with the law, I had no wish to tarnish my reputation by getting involved in a questionable case. Further, I was afraid of ending up with an omelette on my face.&lt;/p&gt;
+&lt;p&gt;The late Mr. Lim’s three sons were waiting for me when I arrived for the meeting, which took place in the unadorned conference room of the old law firm.  Thomas emphasised that we were dealing with a ‘modest’ estate.  Substantial expenditure was to be avoided. Initially, the estate had hope that the  Bank would come up with a settlement. But up to now the Bank had taken a militant stand.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Part 4: A Chat with the Bank&#39;s Employee</title>
@@ -41,14 +43,16 @@
       <link>http://localhost:1313/legal-episodes/ingenius-fraud/part-5/</link>
       <pubDate>Mon, 21 Jul 2025 22:56:17 +0800</pubDate>
       <guid>http://localhost:1313/legal-episodes/ingenius-fraud/part-5/</guid>
-      <description>&lt;p&gt;After some three days I advised Thomas and the estate the terms of the agreement, cited as applicable, were binding under Singapore law. They concluded, on this basis, that they had a poor case. It seemed best not to prod them. Thomas said he was still hoping for a settlement.&lt;/p&gt;&#xA;&lt;p&gt;“In that case you have to fight the case on the merits” I told him. “For instance, didn&amp;rsquo;t the Bank owe special duties of care to a very old and illiterate customer? They did have his record!”&lt;/p&gt;</description>
+      <description>&lt;p&gt;After some three days I advised Thomas and the estate the terms of the agreement, cited as applicable, were binding under Singapore law. They concluded, on this basis, that they had a poor case. It seemed best not to prod them. Thomas said he was still hoping for a settlement.&lt;/p&gt;
+&lt;p&gt;“In that case you have to fight the case on the merits” I told him. “For instance, didn&amp;rsquo;t the Bank owe special duties of care to a very old and illiterate customer? They did have his record!”&lt;/p&gt;</description>
     </item>
     <item>
       <title>Part 6: Settlement and Post Mortem</title>
       <link>http://localhost:1313/legal-episodes/ingenius-fraud/part-6/</link>
       <pubDate>Mon, 21 Jul 2025 22:59:00 +0800</pubDate>
       <guid>http://localhost:1313/legal-episodes/ingenius-fraud/part-6/</guid>
-      <description>&lt;p&gt;A few days later on, Thomas asked me to present my fee note and advised me that they settled for $250.000. Thomas appeared deeply moved by the Bank&amp;rsquo;s generosity. I thought it best to congratulate him. All the same, I bit my tongue!&lt;/p&gt;&#xA;&lt;p&gt;Quentin looked perturbed when we met the following week. After solving together a Bridge quiz, both of us were again at home with one another. In the event, he opened the final discussion of the case.&lt;/p&gt;</description>
+      <description>&lt;p&gt;A few days later on, Thomas asked me to present my fee note and advised me that they settled for $250.000. Thomas appeared deeply moved by the Bank&amp;rsquo;s generosity. I thought it best to congratulate him. All the same, I bit my tongue!&lt;/p&gt;
+&lt;p&gt;Quentin looked perturbed when we met the following week. After solving together a Bridge quiz, both of us were again at home with one another. In the event, he opened the final discussion of the case.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

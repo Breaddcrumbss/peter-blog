@@ -2,7 +2,10 @@
 date = '2026-01-05T19:55:18+08:00'
 draft = false
 title = 'Love and Friendship'
+summary = ' '
 +++
+
+****
 
 In A Painful Case (one of the short stories narrated by James Joyce in Dubliners), the hero opines: “Love between man and man is impossible because there must not be sexual intercourse and friendship between man and woman is impossible because there must be sexual intercourse.” It is not clear from the text whether this statement is made by Joyce’s hero as a consequence of a personal disappointment or is meant to be the author’s statement of a universal truth. This essay sets out to establish that, in general, the statement is a fallacy.
 
