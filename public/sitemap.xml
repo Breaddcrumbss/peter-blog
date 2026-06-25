@@ -1,7 +1,11 @@
+
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>http://localhost:1313/novellas/unshakable-dreams/part-1/</loc>
+    <lastmod>2026-01-05T21:28:59+08:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/dialogues/kafka-the-man/part-1/</loc>
     <lastmod>2026-01-05T20:58:37+08:00</lastmod>
   </url><url>
@@ -64,6 +68,9 @@
   </url><url>
     <loc>http://localhost:1313/novellas/the-hidden-rooms/chapter-1/</loc>
     <lastmod>2025-05-30T19:57:20+08:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/novellas/unshakable-dreams/part-2/</loc>
+    <lastmod>2026-01-05T22:12:42+08:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/dialogues/kafka-the-man/part-2/</loc>
     <lastmod>2026-01-05T20:59:19+08:00</lastmod>
@@ -128,6 +135,9 @@
     <loc>http://localhost:1313/novellas/the-hidden-rooms/chapter-2/</loc>
     <lastmod>2025-05-30T19:59:06+08:00</lastmod>
   </url><url>
+    <loc>http://localhost:1313/novellas/unshakable-dreams/part-3/</loc>
+    <lastmod>2026-01-05T22:17:35+08:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/dialogues/kafka-the-man/part-3/</loc>
     <lastmod>2026-01-05T21:00:23+08:00</lastmod>
   </url><url>
@@ -188,6 +198,9 @@
     <loc>http://localhost:1313/novellas/the-hidden-rooms/chapter-3/</loc>
     <lastmod>2025-05-31T11:04:53+08:00</lastmod>
   </url><url>
+    <loc>http://localhost:1313/novellas/unshakable-dreams/part-4/</loc>
+    <lastmod>2026-01-05T22:18:54+08:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/dialogues/kafka-the-man/part-4/</loc>
     <lastmod>2026-01-05T21:08:19+08:00</lastmod>
   </url><url>
@@ -247,6 +260,9 @@
   </url><url>
     <loc>http://localhost:1313/novellas/the-hidden-rooms/chapter-4/</loc>
     <lastmod>2025-05-31T11:07:14+08:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/novellas/unshakable-dreams/part-5/</loc>
+    <lastmod>2026-01-05T22:19:55+08:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/dialogues/kafka-the-man/part-5/</loc>
     <lastmod>2026-01-05T21:12:41+08:00</lastmod>
@@ -583,6 +599,9 @@
   </url><url>
     <loc>http://localhost:1313/novellas/a-candid-obituary/epilogue/</loc>
     <lastmod>2025-05-31T13:03:25+08:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/novellas/unshakable-dreams/</loc>
+    <lastmod>2026-01-05T21:28:49+08:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/short-stories/hearing-aid/</loc>
     <lastmod>2026-01-05T21:23:20+08:00</lastmod>
