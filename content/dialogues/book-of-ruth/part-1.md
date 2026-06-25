@@ -5,41 +5,41 @@ title = 'Part 1: Unexpected Encouragement'
 weight = 1
 +++
 
- The Koren Bible in front of me looked worn out. Years of study and of leafing through it had left its mark. This evening, I was covering the Book of Ruth. I disliked the tome but, in the course of my steady Bible Reading, had to cover it every now and then. I was about to put the book aside and get ready to retire when Theophil materialised next to me. As he assumed the guise of my late pal Peppi, I realised that this was a friendly visit. If his object had been to castigate or scold me, he would have chosen the image known to monotheistic religions, that is, the form of Asmodeus, the Archfiend.
+The Koren Bible in front of me looked worn out. Years of study and of leafing through it had left its mark. This evening, I was covering the Book of Ruth. I disliked the tome but, in the course of my steady Bible Reading, had to cover it every now and then. I was about to put the book aside and get ready to retire when Theophil materialised next to me. As he assumed the guise of my late pal Peppi, I realised that this was a friendly visit. If his object had been to castigate or scold me, he would have chosen the image known to monotheistic religions, that is, the form of Asmodeus, the Archfiend.
 
-            “What prompted you to reveal yourself now, Maestro? I am curious but, as you know, it is always good to see you.”
+“What prompted you to reveal yourself now, Maestro? I am curious but, as you know, it is always good to see you.”
 
-            “Quite a few of your Orthodox friends – Christians, Muslims or Jews – would disagree. They think I am the epitome of  evil and fear me. But of course, nothing is further from my mind than harming a friend like you, Peter’le.”
+“Quite a few of your Orthodox friends – Christians, Muslims or Jews – would disagree. They think I am the epitome of  evil and fear me. But of course, nothing is further from my mind than harming a friend like you, Peter’le.”
 
-            “So, what brings you here today, Maestro? Surely, you do not seek to tell me something about Ruth?”
+“So, what brings you here today, Maestro? Surely, you do not seek to tell me something about Ruth?”
 
-            “No, Peter’le. I am not going to disclose any secret information. But I want you to have a good look at this succinct and well written tome. Surely, you are not perturbed by the style?”
+“No, Peter’le. I am not going to disclose any secret information. But I want you to have a good look at this succinct and well written tome. Surely, you are not perturbed by the style?”
 
-            “Actually, I know it is lucid. I am deeply disturbed by two points made in the book. These induced me to describe it as Shtut, which means nonsense in modern Hebrew.”
+“Actually, I know it is lucid. I am deeply disturbed by two points made in the book. These induced me to describe it as Shtut, which means nonsense in modern Hebrew.”
 
-            “Strong language, Peter’le. We’ll come back to it later. Presently, let us consider the two points you found disturbing.”
+“Strong language, Peter’le. We’ll come back to it later. Presently, let us consider the two points you found disturbing.”
 
-            “The first concerns the very opening of the book. In the Koren Tanach [Old Testament] Harold Fisch translates it as follows: “Now it came to pass in the days when the judges ruled, that there was a famine in the land.”
+“The first concerns the very opening of the book. In the Koren Tanach [Old Testament] Harold Fisch translates it as follows: “Now it came to pass in the days when the judges ruled, that there was a famine in the land.”
 
-            “Surely, Peter’le, this is a good translation, isn’t it?”
+“Surely, Peter’le, this is a good translation, isn’t it?”
 
-            “It is. But the statement is vague. By contrast, Jonah refers to the period in which the Northern kingdom of Israel was reigned by Jeroboam II. The period mentioned in Ruth is confusing.”
+“It is. But the statement is vague. By contrast, Jonah refers to the period in which the Northern kingdom of Israel was reigned by Jeroboam II. The period mentioned in Ruth is confusing.”
 
-            “Why is that so? Surely, it covers the years starting from the death of Joshua ben Nun and ending with the first year of Sha’ul’s Kingdom? That would be some 200 years or so.”
+“Why is that so? Surely, it covers the years starting from the death of Joshua ben Nun and ending with the first year of Sha’ul’s Kingdom? That would be some 200 years or so.”
 
-            “But, as you know, I belong to the many who doubt the Exodus and the conquest of the land of Israel by Joshua. So did the members of the Canaanite movement of the 20th century, of which I was a member.”
+“But, as you know, I belong to the many who doubt the Exodus and the conquest of the land of Israel by Joshua. So did the members of the Canaanite movement of the 20th century, of which I was a member.”
 
-            “The Canaanites of the 20th century are largely forgotten, Peter’le. Who were they?”
+“The Canaanites of the 20th century are largely forgotten, Peter’le. Who were they?”
 
-            “A bunch of intellectuals, who took the view that to survive Israel had to sever its links with Diaspora Judaism and return to the Canaanite culture of a remote past.”
+“A bunch of intellectuals, who took the view that to survive Israel had to sever its links with Diaspora Judaism and return to the Canaanite culture of a remote past.”
 
-            “Very well, Peter’le, based on the Canaanite orientation and the premises you adhere to, what is the meaning of ‘the period when the judges ruled’?”
+“Very well, Peter’le, based on the Canaanite orientation and the premises you adhere to, what is the meaning of ‘the period when the judges ruled’?”
 
-            “It probably refers to the very lengthy periods in which the Israelite consciousness started to form, that is, the period during which the Israelites became an entity of its own – an era of a national Israelite consciousness, departing from the mainstream of the population but   preceding the rise of the monarchy.”
+“It probably refers to the very lengthy periods in which the Israelite consciousness started to form, that is, the period during which the Israelites became an entity of its own – an era of a national Israelite consciousness, departing from the mainstream of the population but   preceding the rise of the monarchy.”
 
-            “That would, indeed, be a lengthy period,” agreed Theoph. “Let us assume that it might involve some three to four hundred years.”
+“That would, indeed, be a lengthy period,” agreed Theoph. “Let us assume that it might involve some three to four hundred years.”
 
- “So, we have a starting point,” I agreed. “But I can see a further difficulty. The Book of Judges relates the wars and campaigns of individual judges.  We are told nothing about judicial episodes (or legal cases) heard and tried by them. Am I overlooking anything?”
+“So, we have a starting point,” I agreed. “But I can see a further difficulty. The Book of Judges relates the wars and campaigns of individual judges.  We are told nothing about judicial episodes (or legal cases) heard and tried by them. Am I overlooking anything?”
 
 “No, Peter’le. Your statement is correct.  Judges is replete with tales of prowess and courage. Still, some ‘judges’ are just referred  and we are told how many years they ‘judged’. So, what were they?”
 
@@ -47,7 +47,7 @@ weight = 1
 
 “It accords with the view of most modern scholars, Peter’le. And if you accept their view, it follows that the so-called sons of Jacob were eponyms. But Peter’le, ‘eponym’ is not a word used in everyday language.”
 
- “I get your point, Maestro. Here is a relevant example: ‘Jehudah’ might have been the name of the tribe’s first chieftain. In other words, ‘eponyms’ are tribal designations later cast in narrative forms as individual forefathers. I hope this clarifies the point.”
+“I get your point, Maestro. Here is a relevant example: ‘Jehudah’ might have been the name of the tribe’s first chieftain. In other words, ‘eponyms’ are tribal designations later cast in narrative forms as individual forefathers. I hope this clarifies the point.”
 
 “It does,” was Theophil’s laconic reply.
 

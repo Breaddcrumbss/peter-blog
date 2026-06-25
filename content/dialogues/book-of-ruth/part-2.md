@@ -41,7 +41,7 @@ weight = 2
 
 “Suitable in the case of the unfolding story?” asked Theophil.
 
- “It is.  After some ten years the sons died. Naomi, who heard that the deprivation was over in Jehudah, decided to return to Beth Lehem. Initially, both daughters-in-law sought to accompany her. When she entreated them to stay put, Orpah kissed her goodbye but Ruth stayed with her, saying: ‘Entreat me not to leave thee, or to return from following after thee; for wherever thou goest, I will go; and where thou lodges, I will lodge; thy people shall be my people, and thy God my God’.”
+“It is.  After some ten years the sons died. Naomi, who heard that the deprivation was over in Jehudah, decided to return to Beth Lehem. Initially, both daughters-in-law sought to accompany her. When she entreated them to stay put, Orpah kissed her goodbye but Ruth stayed with her, saying: ‘Entreat me not to leave thee, or to return from following after thee; for wherever thou goest, I will go; and where thou lodges, I will lodge; thy people shall be my people, and thy God my God’.”
 
 “Hold on, Peter’le: does this mean that she converted?”
 
